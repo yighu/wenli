@@ -1,0 +1,44 @@
+<html>
+<head>
+  <script src="js/jquery-2.1.0.min.js"></script>
+
+  <script src="js/simple-slider.js"></script>
+
+  <link href="css/simple-slider.css" rel="stylesheet" type="text/css" />
+  <link href="css/simple-slider-volume.css" rel="stylesheet" type="text/css" />  
+  
+  <style>
+  body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  [class^=slider] { display: inline-block; margin-bottom: 30px; }
+  .output { color: #888; font-size: 14px; padding-top: 1px; margin-left: 5px; vertical-align: top;}
+  h1 { font-size: 20px; }
+  h2 { clear: both; margin: 0; margin-bottom: 5px; font-size: 16px; }
+  p { font-size: 15px; margin-bottom: 30px; }
+  h2:first-of-type { margin-top: 0; }
+  </style>
+</head>
+
+<body>
+  <h1>jQuery Simple Slider Examples</h1>
+
+  <h2>Range &amp; Steps</h2>
+  <input type="text" data-slider="true" data-slider-range="1,1300" data-slider-step="1">
+
+
+  <script>
+  $("[data-slider]")
+    .each(function () {
+      var input = $(this);
+      $("<span>")
+        .addClass("output")
+        .insertAfter($(this));
+    })
+    .bind("slider:ready slider:changed", function (event, data) {
+	
+      $(this)
+        .nextAll(".output:first")
+          .html(data.value.toFixed(0));
+    });
+  </script>
+</body>
+</html>

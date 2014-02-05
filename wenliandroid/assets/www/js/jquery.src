@@ -1,0 +1,8 @@
+#document: http://demos.jquerymobile.com/1.2.0/docs/forms/slider/
+#curl http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.css -o jquery.mobile-1.2.0.min.css
+curl http://code.jquery.com/jquery-1.8.2.min.js -o jquery-1.8.2.min.js
+curl http://code.jquery.com/mobile/1.2.0/jquery.mobile-1.2.0.min.js -o jquery.mobile-1.2.0.min.js
+
+
+
+#newer version but deprecated http://demos.jquerymobile.com/1.4.0/slider/

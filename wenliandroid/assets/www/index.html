@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset=utf-8>
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+<script src="js/jquery-2.1.0.min.js"></script></head>
+<title>圣经中文文理译本</title>
+
+  
+  <style>
+  body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  [class^=slider] { display: inline-block; margin-bottom: 30px; }
+  .output { color: #888; font-size: 14px; padding-top: 1px; margin-left: 5px; vertical-align: top;}
+  h1 { font-size: 30px; }
+  h2 { clear: both; margin: 0; margin-bottom: 5px; font-size: 16px; }
+  h3 { clear: both; margin: 0; margin-bottom: 5px; font-size: 30px; }
+  p { font-size: 25px; margin-bottom: 30px; }
+  h2:first-of-type { margin-top: 0; }
+         input[type='range'] {
+                -webkit-appearance: none !important;
+                -webkit-border-radius: 5px;
+                -webkit-box-shadow: inset 0 0 5px #333;
+                background-color: #999;
+                display: block;
+                height: 10px;
+                left: 150px;
+                margin: 20px;
+                position: absolute;
+                right: 10px;
+            }
+            input[type='range']::-webkit-slider-thumb {
+                -webkit-appearance: none !important;
+                -webkit-border-radius: 10px;
+                background-color: #AAA;
+                background-image: -webkit-gradient(linear, left top, left bottom, from(#EEE), to(#AAA));
+                border: 1px solid #999;
+                height: 44px;
+                width: 44px;
+            }
+            #range {
+                display: block;
+                font-size: 200%;
+                font-weight: bold;
+                margin: 20px;
+                text-align: center;
+            }
+#cover{
+        margin:0px 0px 0px 0px;
+  	height: 100%;
+        min-height:300px;
+        max-height:600px;
+}
+
+
+  </style>
+</head>
+
+<body>
+<nav>
+<img id="prev" style="float: left; height:75px; width:75px;" src="images/Previous-icon.png" />
+<input id="sldbr" class="slider" type="range" min="0" max="1180" onchange="retrivechapter(this.value);">
+<img id="next" style="float: left;width:75px; height:75px;" src="images/Button-Next-icon.png"  />
+</nav>
+<article>
+<header>
+<div id="book" ></div>
+</header>
+<div id="holder" >
+<br/><br/><br/><br/>
+<img  id="cover" style="align:center" src="images/cover.jpg"/>
+<br/>
+<button onclick="javascript:retrivetext('about.html');"> 
+<h1>关于圣经中文文理译本<h1>
+</button>
+</div>
+</article>
+<footer>
+<img id="prevf" style="float: left;width:75px; height:75px;" src="images/Previous-icon.png"/>
+<input id="sldbrf" class="slider" type="range" min="0" max="1180" onchange="retrivechapter(this.value);">
+<img id="nextf" style="float: left;width:75px; height:75px;" src="images/Button-Next-icon.png"/>
+</footer>
+
+        <div class="app">
+            <div id="deviceready" class="blink" style="display:none">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p>
+         </div>
+        </div>
+        <script type="text/javascript" src="phonegap.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+<script src="js/bible.js"></script>
+
+</body>
+</html>
+
+
+

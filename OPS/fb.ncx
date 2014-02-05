@@ -1,0 +1,5008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1"
+     xml:lang="en-US"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->
+    <meta name="dtb:uid" content="51037e82-03ff-11dd-9fbb-0018f369440e"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta name="provider" content="www.cnepub.com"/>
+    <meta name="builder" content="epubBuilder present by www.cnepub.com"/>
+    <meta name="right" content="该文档由epubBuilder生成。epubBuilder为掌上书苑（www.cnepub.com)提供的epub制作工具，仅供个人交流与学习使用。在未获得掌上书苑的商业授权前，不得用于任何商业用途。"/>
+  </head>
+<docTitle><text> 圣经中文文理译本 </text></docTitle>
+<docAuthor><text> 圣经中文文理译本 </text></docAuthor>
+<navMap>
+<navPoint id="coverpage" playOrder="0">
+<navLabel><text>封面</text></navLabel>
+<content src="coverpage.html"/>
+</navPoint>
+<navPoint id="chapter1" playOrder="1">
+<navLabel><text>创世记</text></navLabel>
+<content src="chapter1.html"/>
+<navPoint id="chapter67" playOrder="2">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter67.html"/>
+</navPoint>
+<navPoint id="chapter68" playOrder="3">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter68.html"/>
+</navPoint>
+<navPoint id="chapter69" playOrder="4">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter69.html"/>
+</navPoint>
+<navPoint id="chapter70" playOrder="5">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter70.html"/>
+</navPoint>
+<navPoint id="chapter71" playOrder="6">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter71.html"/>
+</navPoint>
+<navPoint id="chapter72" playOrder="7">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter72.html"/>
+</navPoint>
+<navPoint id="chapter73" playOrder="8">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter73.html"/>
+</navPoint>
+<navPoint id="chapter74" playOrder="9">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter74.html"/>
+</navPoint>
+<navPoint id="chapter75" playOrder="10">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter75.html"/>
+</navPoint>
+<navPoint id="chapter76" playOrder="11">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter76.html"/>
+</navPoint>
+<navPoint id="chapter77" playOrder="12">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter77.html"/>
+</navPoint>
+<navPoint id="chapter78" playOrder="13">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter78.html"/>
+</navPoint>
+<navPoint id="chapter79" playOrder="14">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter79.html"/>
+</navPoint>
+<navPoint id="chapter80" playOrder="15">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter80.html"/>
+</navPoint>
+<navPoint id="chapter81" playOrder="16">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter81.html"/>
+</navPoint>
+<navPoint id="chapter82" playOrder="17">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter82.html"/>
+</navPoint>
+<navPoint id="chapter83" playOrder="18">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter83.html"/>
+</navPoint>
+<navPoint id="chapter84" playOrder="19">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter84.html"/>
+</navPoint>
+<navPoint id="chapter85" playOrder="20">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter85.html"/>
+</navPoint>
+<navPoint id="chapter86" playOrder="21">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter86.html"/>
+</navPoint>
+<navPoint id="chapter87" playOrder="22">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter87.html"/>
+</navPoint>
+<navPoint id="chapter88" playOrder="23">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter88.html"/>
+</navPoint>
+<navPoint id="chapter89" playOrder="24">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter89.html"/>
+</navPoint>
+<navPoint id="chapter90" playOrder="25">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter90.html"/>
+</navPoint>
+<navPoint id="chapter91" playOrder="26">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter91.html"/>
+</navPoint>
+<navPoint id="chapter92" playOrder="27">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter92.html"/>
+</navPoint>
+<navPoint id="chapter93" playOrder="28">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter93.html"/>
+</navPoint>
+<navPoint id="chapter94" playOrder="29">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter94.html"/>
+</navPoint>
+<navPoint id="chapter95" playOrder="30">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter95.html"/>
+</navPoint>
+<navPoint id="chapter96" playOrder="31">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter96.html"/>
+</navPoint>
+<navPoint id="chapter97" playOrder="32">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter97.html"/>
+</navPoint>
+<navPoint id="chapter98" playOrder="33">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter98.html"/>
+</navPoint>
+<navPoint id="chapter99" playOrder="34">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter99.html"/>
+</navPoint>
+<navPoint id="chapter100" playOrder="35">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter100.html"/>
+</navPoint>
+<navPoint id="chapter101" playOrder="36">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter101.html"/>
+</navPoint>
+<navPoint id="chapter102" playOrder="37">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter102.html"/>
+</navPoint>
+<navPoint id="chapter103" playOrder="38">
+<navLabel><text>第三十七章</text></navLabel>
+<content src="chapter103.html"/>
+</navPoint>
+<navPoint id="chapter104" playOrder="39">
+<navLabel><text>第三十八章</text></navLabel>
+<content src="chapter104.html"/>
+</navPoint>
+<navPoint id="chapter105" playOrder="40">
+<navLabel><text>第三十九章</text></navLabel>
+<content src="chapter105.html"/>
+</navPoint>
+<navPoint id="chapter106" playOrder="41">
+<navLabel><text>第四十章</text></navLabel>
+<content src="chapter106.html"/>
+</navPoint>
+<navPoint id="chapter107" playOrder="42">
+<navLabel><text>第四十一章</text></navLabel>
+<content src="chapter107.html"/>
+</navPoint>
+<navPoint id="chapter108" playOrder="43">
+<navLabel><text>第四十二章</text></navLabel>
+<content src="chapter108.html"/>
+</navPoint>
+<navPoint id="chapter109" playOrder="44">
+<navLabel><text>第四十三章</text></navLabel>
+<content src="chapter109.html"/>
+</navPoint>
+<navPoint id="chapter110" playOrder="45">
+<navLabel><text>第四十四章</text></navLabel>
+<content src="chapter110.html"/>
+</navPoint>
+<navPoint id="chapter111" playOrder="46">
+<navLabel><text>第四十五章</text></navLabel>
+<content src="chapter111.html"/>
+</navPoint>
+<navPoint id="chapter112" playOrder="47">
+<navLabel><text>第四十六章</text></navLabel>
+<content src="chapter112.html"/>
+</navPoint>
+<navPoint id="chapter113" playOrder="48">
+<navLabel><text>第四十七章</text></navLabel>
+<content src="chapter113.html"/>
+</navPoint>
+<navPoint id="chapter114" playOrder="49">
+<navLabel><text>第四十八章</text></navLabel>
+<content src="chapter114.html"/>
+</navPoint>
+<navPoint id="chapter115" playOrder="50">
+<navLabel><text>第四十九章</text></navLabel>
+<content src="chapter115.html"/>
+</navPoint>
+<navPoint id="chapter116" playOrder="51">
+<navLabel><text>第五十章</text></navLabel>
+<content src="chapter116.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter117" playOrder="52">
+<navLabel><text>出埃及记</text></navLabel>
+<content src="chapter117.html"/>
+<navPoint id="chapter118" playOrder="53">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter118.html"/>
+</navPoint>
+<navPoint id="chapter119" playOrder="54">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter119.html"/>
+</navPoint>
+<navPoint id="chapter120" playOrder="55">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter120.html"/>
+</navPoint>
+<navPoint id="chapter121" playOrder="56">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter121.html"/>
+</navPoint>
+<navPoint id="chapter122" playOrder="57">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter122.html"/>
+</navPoint>
+<navPoint id="chapter123" playOrder="58">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter123.html"/>
+</navPoint>
+<navPoint id="chapter124" playOrder="59">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter124.html"/>
+</navPoint>
+<navPoint id="chapter125" playOrder="60">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter125.html"/>
+</navPoint>
+<navPoint id="chapter126" playOrder="61">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter126.html"/>
+</navPoint>
+<navPoint id="chapter127" playOrder="62">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter127.html"/>
+</navPoint>
+<navPoint id="chapter128" playOrder="63">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter128.html"/>
+</navPoint>
+<navPoint id="chapter129" playOrder="64">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter129.html"/>
+</navPoint>
+<navPoint id="chapter130" playOrder="65">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter130.html"/>
+</navPoint>
+<navPoint id="chapter131" playOrder="66">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter131.html"/>
+</navPoint>
+<navPoint id="chapter132" playOrder="67">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter132.html"/>
+</navPoint>
+<navPoint id="chapter133" playOrder="68">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter133.html"/>
+</navPoint>
+<navPoint id="chapter134" playOrder="69">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter134.html"/>
+</navPoint>
+<navPoint id="chapter135" playOrder="70">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter135.html"/>
+</navPoint>
+<navPoint id="chapter136" playOrder="71">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter136.html"/>
+</navPoint>
+<navPoint id="chapter137" playOrder="72">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter137.html"/>
+</navPoint>
+<navPoint id="chapter138" playOrder="73">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter138.html"/>
+</navPoint>
+<navPoint id="chapter139" playOrder="74">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter139.html"/>
+</navPoint>
+<navPoint id="chapter140" playOrder="75">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter140.html"/>
+</navPoint>
+<navPoint id="chapter141" playOrder="76">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter141.html"/>
+</navPoint>
+<navPoint id="chapter142" playOrder="77">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter142.html"/>
+</navPoint>
+<navPoint id="chapter143" playOrder="78">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter143.html"/>
+</navPoint>
+<navPoint id="chapter144" playOrder="79">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter144.html"/>
+</navPoint>
+<navPoint id="chapter145" playOrder="80">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter145.html"/>
+</navPoint>
+<navPoint id="chapter146" playOrder="81">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter146.html"/>
+</navPoint>
+<navPoint id="chapter147" playOrder="82">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter147.html"/>
+</navPoint>
+<navPoint id="chapter148" playOrder="83">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter148.html"/>
+</navPoint>
+<navPoint id="chapter149" playOrder="84">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter149.html"/>
+</navPoint>
+<navPoint id="chapter150" playOrder="85">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter150.html"/>
+</navPoint>
+<navPoint id="chapter151" playOrder="86">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter151.html"/>
+</navPoint>
+<navPoint id="chapter152" playOrder="87">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter152.html"/>
+</navPoint>
+<navPoint id="chapter153" playOrder="88">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter153.html"/>
+</navPoint>
+<navPoint id="chapter154" playOrder="89">
+<navLabel><text>第三十七章</text></navLabel>
+<content src="chapter154.html"/>
+</navPoint>
+<navPoint id="chapter155" playOrder="90">
+<navLabel><text>第三十八章</text></navLabel>
+<content src="chapter155.html"/>
+</navPoint>
+<navPoint id="chapter156" playOrder="91">
+<navLabel><text>第三十九章</text></navLabel>
+<content src="chapter156.html"/>
+</navPoint>
+<navPoint id="chapter157" playOrder="92">
+<navLabel><text>第四十章</text></navLabel>
+<content src="chapter157.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter3" playOrder="93">
+<navLabel><text>利未记</text></navLabel>
+<content src="chapter3.html"/>
+<navPoint id="chapter175" playOrder="94">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter175.html"/>
+</navPoint>
+<navPoint id="chapter176" playOrder="95">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter176.html"/>
+</navPoint>
+<navPoint id="chapter177" playOrder="96">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter177.html"/>
+</navPoint>
+<navPoint id="chapter178" playOrder="97">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter178.html"/>
+</navPoint>
+<navPoint id="chapter179" playOrder="98">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter179.html"/>
+</navPoint>
+<navPoint id="chapter180" playOrder="99">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter180.html"/>
+</navPoint>
+<navPoint id="chapter181" playOrder="100">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter181.html"/>
+</navPoint>
+<navPoint id="chapter182" playOrder="101">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter182.html"/>
+</navPoint>
+<navPoint id="chapter183" playOrder="102">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter183.html"/>
+</navPoint>
+<navPoint id="chapter184" playOrder="103">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter184.html"/>
+</navPoint>
+<navPoint id="chapter185" playOrder="104">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter185.html"/>
+</navPoint>
+<navPoint id="chapter186" playOrder="105">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter186.html"/>
+</navPoint>
+<navPoint id="chapter187" playOrder="106">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter187.html"/>
+</navPoint>
+<navPoint id="chapter188" playOrder="107">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter188.html"/>
+</navPoint>
+<navPoint id="chapter189" playOrder="108">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter189.html"/>
+</navPoint>
+<navPoint id="chapter190" playOrder="109">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter190.html"/>
+</navPoint>
+<navPoint id="chapter191" playOrder="110">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter191.html"/>
+</navPoint>
+<navPoint id="chapter192" playOrder="111">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter192.html"/>
+</navPoint>
+<navPoint id="chapter193" playOrder="112">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter193.html"/>
+</navPoint>
+<navPoint id="chapter194" playOrder="113">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter194.html"/>
+</navPoint>
+<navPoint id="chapter195" playOrder="114">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter195.html"/>
+</navPoint>
+<navPoint id="chapter196" playOrder="115">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter196.html"/>
+</navPoint>
+<navPoint id="chapter197" playOrder="116">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter197.html"/>
+</navPoint>
+<navPoint id="chapter198" playOrder="117">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter198.html"/>
+</navPoint>
+<navPoint id="chapter199" playOrder="118">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter199.html"/>
+</navPoint>
+<navPoint id="chapter200" playOrder="119">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter200.html"/>
+</navPoint>
+<navPoint id="chapter201" playOrder="120">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter201.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter4" playOrder="121">
+<navLabel><text>民数记</text></navLabel>
+<content src="chapter4.html"/>
+<navPoint id="chapter202" playOrder="122">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter202.html"/>
+</navPoint>
+<navPoint id="chapter203" playOrder="123">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter203.html"/>
+</navPoint>
+<navPoint id="chapter204" playOrder="124">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter204.html"/>
+</navPoint>
+<navPoint id="chapter205" playOrder="125">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter205.html"/>
+</navPoint>
+<navPoint id="chapter206" playOrder="126">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter206.html"/>
+</navPoint>
+<navPoint id="chapter207" playOrder="127">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter207.html"/>
+</navPoint>
+<navPoint id="chapter208" playOrder="128">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter208.html"/>
+</navPoint>
+<navPoint id="chapter209" playOrder="129">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter209.html"/>
+</navPoint>
+<navPoint id="chapter210" playOrder="130">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter210.html"/>
+</navPoint>
+<navPoint id="chapter211" playOrder="131">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter211.html"/>
+</navPoint>
+<navPoint id="chapter212" playOrder="132">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter212.html"/>
+</navPoint>
+<navPoint id="chapter213" playOrder="133">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter213.html"/>
+</navPoint>
+<navPoint id="chapter214" playOrder="134">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter214.html"/>
+</navPoint>
+<navPoint id="chapter215" playOrder="135">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter215.html"/>
+</navPoint>
+<navPoint id="chapter216" playOrder="136">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter216.html"/>
+</navPoint>
+<navPoint id="chapter217" playOrder="137">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter217.html"/>
+</navPoint>
+<navPoint id="chapter218" playOrder="138">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter218.html"/>
+</navPoint>
+<navPoint id="chapter219" playOrder="139">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter219.html"/>
+</navPoint>
+<navPoint id="chapter220" playOrder="140">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter220.html"/>
+</navPoint>
+<navPoint id="chapter221" playOrder="141">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter221.html"/>
+</navPoint>
+<navPoint id="chapter222" playOrder="142">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter222.html"/>
+</navPoint>
+<navPoint id="chapter223" playOrder="143">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter223.html"/>
+</navPoint>
+<navPoint id="chapter224" playOrder="144">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter224.html"/>
+</navPoint>
+<navPoint id="chapter225" playOrder="145">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter225.html"/>
+</navPoint>
+<navPoint id="chapter226" playOrder="146">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter226.html"/>
+</navPoint>
+<navPoint id="chapter227" playOrder="147">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter227.html"/>
+</navPoint>
+<navPoint id="chapter228" playOrder="148">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter228.html"/>
+</navPoint>
+<navPoint id="chapter229" playOrder="149">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter229.html"/>
+</navPoint>
+<navPoint id="chapter230" playOrder="150">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter230.html"/>
+</navPoint>
+<navPoint id="chapter231" playOrder="151">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter231.html"/>
+</navPoint>
+<navPoint id="chapter232" playOrder="152">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter232.html"/>
+</navPoint>
+<navPoint id="chapter233" playOrder="153">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter233.html"/>
+</navPoint>
+<navPoint id="chapter234" playOrder="154">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter234.html"/>
+</navPoint>
+<navPoint id="chapter235" playOrder="155">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter235.html"/>
+</navPoint>
+<navPoint id="chapter236" playOrder="156">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter236.html"/>
+</navPoint>
+<navPoint id="chapter237" playOrder="157">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter237.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter5" playOrder="158">
+<navLabel><text>申命记</text></navLabel>
+<content src="chapter5.html"/>
+<navPoint id="chapter238" playOrder="159">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter238.html"/>
+</navPoint>
+<navPoint id="chapter239" playOrder="160">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter239.html"/>
+</navPoint>
+<navPoint id="chapter240" playOrder="161">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter240.html"/>
+</navPoint>
+<navPoint id="chapter241" playOrder="162">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter241.html"/>
+</navPoint>
+<navPoint id="chapter242" playOrder="163">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter242.html"/>
+</navPoint>
+<navPoint id="chapter243" playOrder="164">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter243.html"/>
+</navPoint>
+<navPoint id="chapter244" playOrder="165">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter244.html"/>
+</navPoint>
+<navPoint id="chapter245" playOrder="166">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter245.html"/>
+</navPoint>
+<navPoint id="chapter246" playOrder="167">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter246.html"/>
+</navPoint>
+<navPoint id="chapter247" playOrder="168">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter247.html"/>
+</navPoint>
+<navPoint id="chapter248" playOrder="169">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter248.html"/>
+</navPoint>
+<navPoint id="chapter249" playOrder="170">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter249.html"/>
+</navPoint>
+<navPoint id="chapter250" playOrder="171">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter250.html"/>
+</navPoint>
+<navPoint id="chapter251" playOrder="172">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter251.html"/>
+</navPoint>
+<navPoint id="chapter252" playOrder="173">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter252.html"/>
+</navPoint>
+<navPoint id="chapter253" playOrder="174">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter253.html"/>
+</navPoint>
+<navPoint id="chapter254" playOrder="175">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter254.html"/>
+</navPoint>
+<navPoint id="chapter255" playOrder="176">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter255.html"/>
+</navPoint>
+<navPoint id="chapter256" playOrder="177">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter256.html"/>
+</navPoint>
+<navPoint id="chapter257" playOrder="178">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter257.html"/>
+</navPoint>
+<navPoint id="chapter258" playOrder="179">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter258.html"/>
+</navPoint>
+<navPoint id="chapter259" playOrder="180">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter259.html"/>
+</navPoint>
+<navPoint id="chapter260" playOrder="181">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter260.html"/>
+</navPoint>
+<navPoint id="chapter261" playOrder="182">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter261.html"/>
+</navPoint>
+<navPoint id="chapter262" playOrder="183">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter262.html"/>
+</navPoint>
+<navPoint id="chapter263" playOrder="184">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter263.html"/>
+</navPoint>
+<navPoint id="chapter264" playOrder="185">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter264.html"/>
+</navPoint>
+<navPoint id="chapter265" playOrder="186">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter265.html"/>
+</navPoint>
+<navPoint id="chapter266" playOrder="187">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter266.html"/>
+</navPoint>
+<navPoint id="chapter267" playOrder="188">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter267.html"/>
+</navPoint>
+<navPoint id="chapter268" playOrder="189">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter268.html"/>
+</navPoint>
+<navPoint id="chapter269" playOrder="190">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter269.html"/>
+</navPoint>
+<navPoint id="chapter270" playOrder="191">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter270.html"/>
+</navPoint>
+<navPoint id="chapter271" playOrder="192">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter271.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter6" playOrder="193">
+<navLabel><text>约书亚记</text></navLabel>
+<content src="chapter6.html"/>
+<navPoint id="chapter272" playOrder="194">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter272.html"/>
+</navPoint>
+<navPoint id="chapter273" playOrder="195">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter273.html"/>
+</navPoint>
+<navPoint id="chapter274" playOrder="196">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter274.html"/>
+</navPoint>
+<navPoint id="chapter275" playOrder="197">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter275.html"/>
+</navPoint>
+<navPoint id="chapter276" playOrder="198">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter276.html"/>
+</navPoint>
+<navPoint id="chapter277" playOrder="199">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter277.html"/>
+</navPoint>
+<navPoint id="chapter278" playOrder="200">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter278.html"/>
+</navPoint>
+<navPoint id="chapter279" playOrder="201">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter279.html"/>
+</navPoint>
+<navPoint id="chapter280" playOrder="202">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter280.html"/>
+</navPoint>
+<navPoint id="chapter281" playOrder="203">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter281.html"/>
+</navPoint>
+<navPoint id="chapter282" playOrder="204">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter282.html"/>
+</navPoint>
+<navPoint id="chapter283" playOrder="205">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter283.html"/>
+</navPoint>
+<navPoint id="chapter284" playOrder="206">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter284.html"/>
+</navPoint>
+<navPoint id="chapter285" playOrder="207">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter285.html"/>
+</navPoint>
+<navPoint id="chapter286" playOrder="208">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter286.html"/>
+</navPoint>
+<navPoint id="chapter287" playOrder="209">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter287.html"/>
+</navPoint>
+<navPoint id="chapter288" playOrder="210">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter288.html"/>
+</navPoint>
+<navPoint id="chapter289" playOrder="211">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter289.html"/>
+</navPoint>
+<navPoint id="chapter290" playOrder="212">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter290.html"/>
+</navPoint>
+<navPoint id="chapter291" playOrder="213">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter291.html"/>
+</navPoint>
+<navPoint id="chapter292" playOrder="214">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter292.html"/>
+</navPoint>
+<navPoint id="chapter293" playOrder="215">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter293.html"/>
+</navPoint>
+<navPoint id="chapter294" playOrder="216">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter294.html"/>
+</navPoint>
+<navPoint id="chapter295" playOrder="217">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter295.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter7" playOrder="218">
+<navLabel><text>士师记</text></navLabel>
+<content src="chapter7.html"/>
+<navPoint id="chapter296" playOrder="219">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter296.html"/>
+</navPoint>
+<navPoint id="chapter297" playOrder="220">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter297.html"/>
+</navPoint>
+<navPoint id="chapter298" playOrder="221">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter298.html"/>
+</navPoint>
+<navPoint id="chapter299" playOrder="222">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter299.html"/>
+</navPoint>
+<navPoint id="chapter300" playOrder="223">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter300.html"/>
+</navPoint>
+<navPoint id="chapter301" playOrder="224">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter301.html"/>
+</navPoint>
+<navPoint id="chapter302" playOrder="225">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter302.html"/>
+</navPoint>
+<navPoint id="chapter303" playOrder="226">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter303.html"/>
+</navPoint>
+<navPoint id="chapter304" playOrder="227">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter304.html"/>
+</navPoint>
+<navPoint id="chapter305" playOrder="228">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter305.html"/>
+</navPoint>
+<navPoint id="chapter306" playOrder="229">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter306.html"/>
+</navPoint>
+<navPoint id="chapter307" playOrder="230">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter307.html"/>
+</navPoint>
+<navPoint id="chapter308" playOrder="231">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter308.html"/>
+</navPoint>
+<navPoint id="chapter309" playOrder="232">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter309.html"/>
+</navPoint>
+<navPoint id="chapter310" playOrder="233">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter310.html"/>
+</navPoint>
+<navPoint id="chapter311" playOrder="234">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter311.html"/>
+</navPoint>
+<navPoint id="chapter312" playOrder="235">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter312.html"/>
+</navPoint>
+<navPoint id="chapter313" playOrder="236">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter313.html"/>
+</navPoint>
+<navPoint id="chapter314" playOrder="237">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter314.html"/>
+</navPoint>
+<navPoint id="chapter315" playOrder="238">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter315.html"/>
+</navPoint>
+<navPoint id="chapter316" playOrder="239">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter316.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter8" playOrder="240">
+<navLabel><text>路得记</text></navLabel>
+<content src="chapter8.html"/>
+<navPoint id="chapter317" playOrder="241">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter317.html"/>
+</navPoint>
+<navPoint id="chapter318" playOrder="242">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter318.html"/>
+</navPoint>
+<navPoint id="chapter319" playOrder="243">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter319.html"/>
+</navPoint>
+<navPoint id="chapter320" playOrder="244">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter320.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter9" playOrder="245">
+<navLabel><text>撒母耳记上</text></navLabel>
+<content src="chapter9.html"/>
+<navPoint id="chapter321" playOrder="246">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter321.html"/>
+</navPoint>
+<navPoint id="chapter322" playOrder="247">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter322.html"/>
+</navPoint>
+<navPoint id="chapter323" playOrder="248">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter323.html"/>
+</navPoint>
+<navPoint id="chapter324" playOrder="249">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter324.html"/>
+</navPoint>
+<navPoint id="chapter325" playOrder="250">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter325.html"/>
+</navPoint>
+<navPoint id="chapter326" playOrder="251">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter326.html"/>
+</navPoint>
+<navPoint id="chapter327" playOrder="252">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter327.html"/>
+</navPoint>
+<navPoint id="chapter328" playOrder="253">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter328.html"/>
+</navPoint>
+<navPoint id="chapter329" playOrder="254">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter329.html"/>
+</navPoint>
+<navPoint id="chapter330" playOrder="255">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter330.html"/>
+</navPoint>
+<navPoint id="chapter331" playOrder="256">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter331.html"/>
+</navPoint>
+<navPoint id="chapter332" playOrder="257">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter332.html"/>
+</navPoint>
+<navPoint id="chapter333" playOrder="258">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter333.html"/>
+</navPoint>
+<navPoint id="chapter334" playOrder="259">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter334.html"/>
+</navPoint>
+<navPoint id="chapter335" playOrder="260">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter335.html"/>
+</navPoint>
+<navPoint id="chapter336" playOrder="261">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter336.html"/>
+</navPoint>
+<navPoint id="chapter337" playOrder="262">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter337.html"/>
+</navPoint>
+<navPoint id="chapter338" playOrder="263">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter338.html"/>
+</navPoint>
+<navPoint id="chapter339" playOrder="264">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter339.html"/>
+</navPoint>
+<navPoint id="chapter340" playOrder="265">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter340.html"/>
+</navPoint>
+<navPoint id="chapter341" playOrder="266">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter341.html"/>
+</navPoint>
+<navPoint id="chapter342" playOrder="267">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter342.html"/>
+</navPoint>
+<navPoint id="chapter343" playOrder="268">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter343.html"/>
+</navPoint>
+<navPoint id="chapter344" playOrder="269">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter344.html"/>
+</navPoint>
+<navPoint id="chapter345" playOrder="270">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter345.html"/>
+</navPoint>
+<navPoint id="chapter346" playOrder="271">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter346.html"/>
+</navPoint>
+<navPoint id="chapter347" playOrder="272">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter347.html"/>
+</navPoint>
+<navPoint id="chapter348" playOrder="273">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter348.html"/>
+</navPoint>
+<navPoint id="chapter349" playOrder="274">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter349.html"/>
+</navPoint>
+<navPoint id="chapter350" playOrder="275">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter350.html"/>
+</navPoint>
+<navPoint id="chapter351" playOrder="276">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter351.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter10" playOrder="277">
+<navLabel><text>撒母耳记下</text></navLabel>
+<content src="chapter10.html"/>
+<navPoint id="chapter352" playOrder="278">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter352.html"/>
+</navPoint>
+<navPoint id="chapter353" playOrder="279">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter353.html"/>
+</navPoint>
+<navPoint id="chapter354" playOrder="280">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter354.html"/>
+</navPoint>
+<navPoint id="chapter355" playOrder="281">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter355.html"/>
+</navPoint>
+<navPoint id="chapter356" playOrder="282">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter356.html"/>
+</navPoint>
+<navPoint id="chapter357" playOrder="283">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter357.html"/>
+</navPoint>
+<navPoint id="chapter358" playOrder="284">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter358.html"/>
+</navPoint>
+<navPoint id="chapter359" playOrder="285">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter359.html"/>
+</navPoint>
+<navPoint id="chapter360" playOrder="286">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter360.html"/>
+</navPoint>
+<navPoint id="chapter361" playOrder="287">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter361.html"/>
+</navPoint>
+<navPoint id="chapter362" playOrder="288">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter362.html"/>
+</navPoint>
+<navPoint id="chapter363" playOrder="289">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter363.html"/>
+</navPoint>
+<navPoint id="chapter364" playOrder="290">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter364.html"/>
+</navPoint>
+<navPoint id="chapter365" playOrder="291">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter365.html"/>
+</navPoint>
+<navPoint id="chapter366" playOrder="292">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter366.html"/>
+</navPoint>
+<navPoint id="chapter367" playOrder="293">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter367.html"/>
+</navPoint>
+<navPoint id="chapter368" playOrder="294">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter368.html"/>
+</navPoint>
+<navPoint id="chapter369" playOrder="295">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter369.html"/>
+</navPoint>
+<navPoint id="chapter370" playOrder="296">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter370.html"/>
+</navPoint>
+<navPoint id="chapter371" playOrder="297">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter371.html"/>
+</navPoint>
+<navPoint id="chapter372" playOrder="298">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter372.html"/>
+</navPoint>
+<navPoint id="chapter373" playOrder="299">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter373.html"/>
+</navPoint>
+<navPoint id="chapter374" playOrder="300">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter374.html"/>
+</navPoint>
+<navPoint id="chapter375" playOrder="301">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter375.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter11" playOrder="302">
+<navLabel><text>列王纪上</text></navLabel>
+<content src="chapter11.html"/>
+<navPoint id="chapter376" playOrder="303">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter376.html"/>
+</navPoint>
+<navPoint id="chapter377" playOrder="304">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter377.html"/>
+</navPoint>
+<navPoint id="chapter378" playOrder="305">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter378.html"/>
+</navPoint>
+<navPoint id="chapter379" playOrder="306">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter379.html"/>
+</navPoint>
+<navPoint id="chapter380" playOrder="307">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter380.html"/>
+</navPoint>
+<navPoint id="chapter381" playOrder="308">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter381.html"/>
+</navPoint>
+<navPoint id="chapter382" playOrder="309">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter382.html"/>
+</navPoint>
+<navPoint id="chapter383" playOrder="310">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter383.html"/>
+</navPoint>
+<navPoint id="chapter384" playOrder="311">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter384.html"/>
+</navPoint>
+<navPoint id="chapter385" playOrder="312">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter385.html"/>
+</navPoint>
+<navPoint id="chapter386" playOrder="313">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter386.html"/>
+</navPoint>
+<navPoint id="chapter387" playOrder="314">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter387.html"/>
+</navPoint>
+<navPoint id="chapter388" playOrder="315">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter388.html"/>
+</navPoint>
+<navPoint id="chapter389" playOrder="316">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter389.html"/>
+</navPoint>
+<navPoint id="chapter390" playOrder="317">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter390.html"/>
+</navPoint>
+<navPoint id="chapter391" playOrder="318">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter391.html"/>
+</navPoint>
+<navPoint id="chapter392" playOrder="319">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter392.html"/>
+</navPoint>
+<navPoint id="chapter393" playOrder="320">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter393.html"/>
+</navPoint>
+<navPoint id="chapter394" playOrder="321">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter394.html"/>
+</navPoint>
+<navPoint id="chapter395" playOrder="322">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter395.html"/>
+</navPoint>
+<navPoint id="chapter396" playOrder="323">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter396.html"/>
+</navPoint>
+<navPoint id="chapter397" playOrder="324">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter397.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter12" playOrder="325">
+<navLabel><text>列王纪下</text></navLabel>
+<content src="chapter12.html"/>
+<navPoint id="chapter398" playOrder="326">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter398.html"/>
+</navPoint>
+<navPoint id="chapter399" playOrder="327">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter399.html"/>
+</navPoint>
+<navPoint id="chapter400" playOrder="328">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter400.html"/>
+</navPoint>
+<navPoint id="chapter401" playOrder="329">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter401.html"/>
+</navPoint>
+<navPoint id="chapter402" playOrder="330">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter402.html"/>
+</navPoint>
+<navPoint id="chapter403" playOrder="331">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter403.html"/>
+</navPoint>
+<navPoint id="chapter404" playOrder="332">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter404.html"/>
+</navPoint>
+<navPoint id="chapter405" playOrder="333">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter405.html"/>
+</navPoint>
+<navPoint id="chapter406" playOrder="334">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter406.html"/>
+</navPoint>
+<navPoint id="chapter407" playOrder="335">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter407.html"/>
+</navPoint>
+<navPoint id="chapter408" playOrder="336">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter408.html"/>
+</navPoint>
+<navPoint id="chapter409" playOrder="337">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter409.html"/>
+</navPoint>
+<navPoint id="chapter410" playOrder="338">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter410.html"/>
+</navPoint>
+<navPoint id="chapter411" playOrder="339">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter411.html"/>
+</navPoint>
+<navPoint id="chapter412" playOrder="340">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter412.html"/>
+</navPoint>
+<navPoint id="chapter413" playOrder="341">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter413.html"/>
+</navPoint>
+<navPoint id="chapter414" playOrder="342">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter414.html"/>
+</navPoint>
+<navPoint id="chapter415" playOrder="343">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter415.html"/>
+</navPoint>
+<navPoint id="chapter416" playOrder="344">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter416.html"/>
+</navPoint>
+<navPoint id="chapter417" playOrder="345">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter417.html"/>
+</navPoint>
+<navPoint id="chapter418" playOrder="346">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter418.html"/>
+</navPoint>
+<navPoint id="chapter419" playOrder="347">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter419.html"/>
+</navPoint>
+<navPoint id="chapter420" playOrder="348">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter420.html"/>
+</navPoint>
+<navPoint id="chapter421" playOrder="349">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter421.html"/>
+</navPoint>
+<navPoint id="chapter422" playOrder="350">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter422.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter13" playOrder="351">
+<navLabel><text>历代志上</text></navLabel>
+<content src="chapter13.html"/>
+<navPoint id="chapter423" playOrder="352">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter423.html"/>
+</navPoint>
+<navPoint id="chapter424" playOrder="353">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter424.html"/>
+</navPoint>
+<navPoint id="chapter425" playOrder="354">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter425.html"/>
+</navPoint>
+<navPoint id="chapter426" playOrder="355">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter426.html"/>
+</navPoint>
+<navPoint id="chapter427" playOrder="356">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter427.html"/>
+</navPoint>
+<navPoint id="chapter428" playOrder="357">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter428.html"/>
+</navPoint>
+<navPoint id="chapter429" playOrder="358">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter429.html"/>
+</navPoint>
+<navPoint id="chapter430" playOrder="359">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter430.html"/>
+</navPoint>
+<navPoint id="chapter431" playOrder="360">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter431.html"/>
+</navPoint>
+<navPoint id="chapter432" playOrder="361">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter432.html"/>
+</navPoint>
+<navPoint id="chapter433" playOrder="362">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter433.html"/>
+</navPoint>
+<navPoint id="chapter434" playOrder="363">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter434.html"/>
+</navPoint>
+<navPoint id="chapter435" playOrder="364">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter435.html"/>
+</navPoint>
+<navPoint id="chapter436" playOrder="365">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter436.html"/>
+</navPoint>
+<navPoint id="chapter437" playOrder="366">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter437.html"/>
+</navPoint>
+<navPoint id="chapter438" playOrder="367">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter438.html"/>
+</navPoint>
+<navPoint id="chapter439" playOrder="368">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter439.html"/>
+</navPoint>
+<navPoint id="chapter440" playOrder="369">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter440.html"/>
+</navPoint>
+<navPoint id="chapter441" playOrder="370">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter441.html"/>
+</navPoint>
+<navPoint id="chapter442" playOrder="371">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter442.html"/>
+</navPoint>
+<navPoint id="chapter443" playOrder="372">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter443.html"/>
+</navPoint>
+<navPoint id="chapter444" playOrder="373">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter444.html"/>
+</navPoint>
+<navPoint id="chapter445" playOrder="374">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter445.html"/>
+</navPoint>
+<navPoint id="chapter446" playOrder="375">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter446.html"/>
+</navPoint>
+<navPoint id="chapter447" playOrder="376">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter447.html"/>
+</navPoint>
+<navPoint id="chapter448" playOrder="377">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter448.html"/>
+</navPoint>
+<navPoint id="chapter449" playOrder="378">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter449.html"/>
+</navPoint>
+<navPoint id="chapter450" playOrder="379">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter450.html"/>
+</navPoint>
+<navPoint id="chapter451" playOrder="380">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter451.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter14" playOrder="381">
+<navLabel><text>历代志下</text></navLabel>
+<content src="chapter14.html"/>
+<navPoint id="chapter452" playOrder="382">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter452.html"/>
+</navPoint>
+<navPoint id="chapter453" playOrder="383">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter453.html"/>
+</navPoint>
+<navPoint id="chapter454" playOrder="384">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter454.html"/>
+</navPoint>
+<navPoint id="chapter455" playOrder="385">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter455.html"/>
+</navPoint>
+<navPoint id="chapter456" playOrder="386">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter456.html"/>
+</navPoint>
+<navPoint id="chapter457" playOrder="387">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter457.html"/>
+</navPoint>
+<navPoint id="chapter458" playOrder="388">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter458.html"/>
+</navPoint>
+<navPoint id="chapter459" playOrder="389">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter459.html"/>
+</navPoint>
+<navPoint id="chapter460" playOrder="390">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter460.html"/>
+</navPoint>
+<navPoint id="chapter461" playOrder="391">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter461.html"/>
+</navPoint>
+<navPoint id="chapter462" playOrder="392">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter462.html"/>
+</navPoint>
+<navPoint id="chapter463" playOrder="393">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter463.html"/>
+</navPoint>
+<navPoint id="chapter464" playOrder="394">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter464.html"/>
+</navPoint>
+<navPoint id="chapter465" playOrder="395">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter465.html"/>
+</navPoint>
+<navPoint id="chapter466" playOrder="396">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter466.html"/>
+</navPoint>
+<navPoint id="chapter467" playOrder="397">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter467.html"/>
+</navPoint>
+<navPoint id="chapter468" playOrder="398">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter468.html"/>
+</navPoint>
+<navPoint id="chapter469" playOrder="399">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter469.html"/>
+</navPoint>
+<navPoint id="chapter470" playOrder="400">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter470.html"/>
+</navPoint>
+<navPoint id="chapter471" playOrder="401">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter471.html"/>
+</navPoint>
+<navPoint id="chapter472" playOrder="402">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter472.html"/>
+</navPoint>
+<navPoint id="chapter473" playOrder="403">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter473.html"/>
+</navPoint>
+<navPoint id="chapter474" playOrder="404">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter474.html"/>
+</navPoint>
+<navPoint id="chapter475" playOrder="405">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter475.html"/>
+</navPoint>
+<navPoint id="chapter476" playOrder="406">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter476.html"/>
+</navPoint>
+<navPoint id="chapter477" playOrder="407">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter477.html"/>
+</navPoint>
+<navPoint id="chapter478" playOrder="408">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter478.html"/>
+</navPoint>
+<navPoint id="chapter479" playOrder="409">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter479.html"/>
+</navPoint>
+<navPoint id="chapter480" playOrder="410">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter480.html"/>
+</navPoint>
+<navPoint id="chapter481" playOrder="411">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter481.html"/>
+</navPoint>
+<navPoint id="chapter482" playOrder="412">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter482.html"/>
+</navPoint>
+<navPoint id="chapter483" playOrder="413">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter483.html"/>
+</navPoint>
+<navPoint id="chapter484" playOrder="414">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter484.html"/>
+</navPoint>
+<navPoint id="chapter485" playOrder="415">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter485.html"/>
+</navPoint>
+<navPoint id="chapter486" playOrder="416">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter486.html"/>
+</navPoint>
+<navPoint id="chapter487" playOrder="417">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter487.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter15" playOrder="418">
+<navLabel><text>以斯拉记</text></navLabel>
+<content src="chapter15.html"/>
+<navPoint id="chapter488" playOrder="419">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter488.html"/>
+</navPoint>
+<navPoint id="chapter489" playOrder="420">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter489.html"/>
+</navPoint>
+<navPoint id="chapter490" playOrder="421">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter490.html"/>
+</navPoint>
+<navPoint id="chapter491" playOrder="422">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter491.html"/>
+</navPoint>
+<navPoint id="chapter492" playOrder="423">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter492.html"/>
+</navPoint>
+<navPoint id="chapter493" playOrder="424">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter493.html"/>
+</navPoint>
+<navPoint id="chapter494" playOrder="425">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter494.html"/>
+</navPoint>
+<navPoint id="chapter495" playOrder="426">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter495.html"/>
+</navPoint>
+<navPoint id="chapter496" playOrder="427">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter496.html"/>
+</navPoint>
+<navPoint id="chapter497" playOrder="428">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter497.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter16" playOrder="429">
+<navLabel><text>尼希米记</text></navLabel>
+<content src="chapter16.html"/>
+<navPoint id="chapter498" playOrder="430">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter498.html"/>
+</navPoint>
+<navPoint id="chapter499" playOrder="431">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter499.html"/>
+</navPoint>
+<navPoint id="chapter500" playOrder="432">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter500.html"/>
+</navPoint>
+<navPoint id="chapter501" playOrder="433">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter501.html"/>
+</navPoint>
+<navPoint id="chapter502" playOrder="434">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter502.html"/>
+</navPoint>
+<navPoint id="chapter503" playOrder="435">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter503.html"/>
+</navPoint>
+<navPoint id="chapter504" playOrder="436">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter504.html"/>
+</navPoint>
+<navPoint id="chapter505" playOrder="437">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter505.html"/>
+</navPoint>
+<navPoint id="chapter506" playOrder="438">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter506.html"/>
+</navPoint>
+<navPoint id="chapter507" playOrder="439">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter507.html"/>
+</navPoint>
+<navPoint id="chapter508" playOrder="440">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter508.html"/>
+</navPoint>
+<navPoint id="chapter509" playOrder="441">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter509.html"/>
+</navPoint>
+<navPoint id="chapter510" playOrder="442">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter510.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter17" playOrder="443">
+<navLabel><text>以斯帖记</text></navLabel>
+<content src="chapter17.html"/>
+<navPoint id="chapter511" playOrder="444">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter511.html"/>
+</navPoint>
+<navPoint id="chapter512" playOrder="445">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter512.html"/>
+</navPoint>
+<navPoint id="chapter513" playOrder="446">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter513.html"/>
+</navPoint>
+<navPoint id="chapter514" playOrder="447">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter514.html"/>
+</navPoint>
+<navPoint id="chapter515" playOrder="448">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter515.html"/>
+</navPoint>
+<navPoint id="chapter516" playOrder="449">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter516.html"/>
+</navPoint>
+<navPoint id="chapter517" playOrder="450">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter517.html"/>
+</navPoint>
+<navPoint id="chapter518" playOrder="451">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter518.html"/>
+</navPoint>
+<navPoint id="chapter519" playOrder="452">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter519.html"/>
+</navPoint>
+<navPoint id="chapter520" playOrder="453">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter520.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter18" playOrder="454">
+<navLabel><text>约伯记</text></navLabel>
+<content src="chapter18.html"/>
+<navPoint id="chapter521" playOrder="455">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter521.html"/>
+</navPoint>
+<navPoint id="chapter522" playOrder="456">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter522.html"/>
+</navPoint>
+<navPoint id="chapter523" playOrder="457">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter523.html"/>
+</navPoint>
+<navPoint id="chapter524" playOrder="458">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter524.html"/>
+</navPoint>
+<navPoint id="chapter525" playOrder="459">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter525.html"/>
+</navPoint>
+<navPoint id="chapter526" playOrder="460">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter526.html"/>
+</navPoint>
+<navPoint id="chapter527" playOrder="461">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter527.html"/>
+</navPoint>
+<navPoint id="chapter528" playOrder="462">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter528.html"/>
+</navPoint>
+<navPoint id="chapter529" playOrder="463">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter529.html"/>
+</navPoint>
+<navPoint id="chapter530" playOrder="464">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter530.html"/>
+</navPoint>
+<navPoint id="chapter531" playOrder="465">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter531.html"/>
+</navPoint>
+<navPoint id="chapter532" playOrder="466">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter532.html"/>
+</navPoint>
+<navPoint id="chapter533" playOrder="467">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter533.html"/>
+</navPoint>
+<navPoint id="chapter534" playOrder="468">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter534.html"/>
+</navPoint>
+<navPoint id="chapter535" playOrder="469">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter535.html"/>
+</navPoint>
+<navPoint id="chapter536" playOrder="470">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter536.html"/>
+</navPoint>
+<navPoint id="chapter537" playOrder="471">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter537.html"/>
+</navPoint>
+<navPoint id="chapter538" playOrder="472">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter538.html"/>
+</navPoint>
+<navPoint id="chapter539" playOrder="473">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter539.html"/>
+</navPoint>
+<navPoint id="chapter540" playOrder="474">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter540.html"/>
+</navPoint>
+<navPoint id="chapter541" playOrder="475">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter541.html"/>
+</navPoint>
+<navPoint id="chapter542" playOrder="476">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter542.html"/>
+</navPoint>
+<navPoint id="chapter543" playOrder="477">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter543.html"/>
+</navPoint>
+<navPoint id="chapter544" playOrder="478">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter544.html"/>
+</navPoint>
+<navPoint id="chapter545" playOrder="479">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter545.html"/>
+</navPoint>
+<navPoint id="chapter546" playOrder="480">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter546.html"/>
+</navPoint>
+<navPoint id="chapter547" playOrder="481">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter547.html"/>
+</navPoint>
+<navPoint id="chapter548" playOrder="482">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter548.html"/>
+</navPoint>
+<navPoint id="chapter549" playOrder="483">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter549.html"/>
+</navPoint>
+<navPoint id="chapter550" playOrder="484">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter550.html"/>
+</navPoint>
+<navPoint id="chapter551" playOrder="485">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter551.html"/>
+</navPoint>
+<navPoint id="chapter552" playOrder="486">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter552.html"/>
+</navPoint>
+<navPoint id="chapter553" playOrder="487">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter553.html"/>
+</navPoint>
+<navPoint id="chapter554" playOrder="488">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter554.html"/>
+</navPoint>
+<navPoint id="chapter555" playOrder="489">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter555.html"/>
+</navPoint>
+<navPoint id="chapter556" playOrder="490">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter556.html"/>
+</navPoint>
+<navPoint id="chapter557" playOrder="491">
+<navLabel><text>第三十七章</text></navLabel>
+<content src="chapter557.html"/>
+</navPoint>
+<navPoint id="chapter558" playOrder="492">
+<navLabel><text>第三十八章</text></navLabel>
+<content src="chapter558.html"/>
+</navPoint>
+<navPoint id="chapter559" playOrder="493">
+<navLabel><text>第三十九章</text></navLabel>
+<content src="chapter559.html"/>
+</navPoint>
+<navPoint id="chapter560" playOrder="494">
+<navLabel><text>第四十章</text></navLabel>
+<content src="chapter560.html"/>
+</navPoint>
+<navPoint id="chapter561" playOrder="495">
+<navLabel><text>第四十一章</text></navLabel>
+<content src="chapter561.html"/>
+</navPoint>
+<navPoint id="chapter562" playOrder="496">
+<navLabel><text>第四十二章</text></navLabel>
+<content src="chapter562.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter19" playOrder="497">
+<navLabel><text>诗篇</text></navLabel>
+<content src="chapter19.html"/>
+<navPoint id="chapter563" playOrder="498">
+<navLabel><text>第一篇</text></navLabel>
+<content src="chapter563.html"/>
+</navPoint>
+<navPoint id="chapter564" playOrder="499">
+<navLabel><text>第二篇</text></navLabel>
+<content src="chapter564.html"/>
+</navPoint>
+<navPoint id="chapter565" playOrder="500">
+<navLabel><text>第三篇</text></navLabel>
+<content src="chapter565.html"/>
+</navPoint>
+<navPoint id="chapter566" playOrder="501">
+<navLabel><text>第四篇</text></navLabel>
+<content src="chapter566.html"/>
+</navPoint>
+<navPoint id="chapter567" playOrder="502">
+<navLabel><text>第五篇</text></navLabel>
+<content src="chapter567.html"/>
+</navPoint>
+<navPoint id="chapter568" playOrder="503">
+<navLabel><text>第六篇</text></navLabel>
+<content src="chapter568.html"/>
+</navPoint>
+<navPoint id="chapter569" playOrder="504">
+<navLabel><text>第七篇</text></navLabel>
+<content src="chapter569.html"/>
+</navPoint>
+<navPoint id="chapter570" playOrder="505">
+<navLabel><text>第八篇</text></navLabel>
+<content src="chapter570.html"/>
+</navPoint>
+<navPoint id="chapter571" playOrder="506">
+<navLabel><text>第九篇</text></navLabel>
+<content src="chapter571.html"/>
+</navPoint>
+<navPoint id="chapter572" playOrder="507">
+<navLabel><text>第十篇</text></navLabel>
+<content src="chapter572.html"/>
+</navPoint>
+<navPoint id="chapter573" playOrder="508">
+<navLabel><text>第十一篇</text></navLabel>
+<content src="chapter573.html"/>
+</navPoint>
+<navPoint id="chapter574" playOrder="509">
+<navLabel><text>第十二篇</text></navLabel>
+<content src="chapter574.html"/>
+</navPoint>
+<navPoint id="chapter575" playOrder="510">
+<navLabel><text>第十三篇</text></navLabel>
+<content src="chapter575.html"/>
+</navPoint>
+<navPoint id="chapter576" playOrder="511">
+<navLabel><text>第十四篇</text></navLabel>
+<content src="chapter576.html"/>
+</navPoint>
+<navPoint id="chapter577" playOrder="512">
+<navLabel><text>第十五篇</text></navLabel>
+<content src="chapter577.html"/>
+</navPoint>
+<navPoint id="chapter578" playOrder="513">
+<navLabel><text>第十六篇</text></navLabel>
+<content src="chapter578.html"/>
+</navPoint>
+<navPoint id="chapter579" playOrder="514">
+<navLabel><text>第十七篇</text></navLabel>
+<content src="chapter579.html"/>
+</navPoint>
+<navPoint id="chapter580" playOrder="515">
+<navLabel><text>第十八篇</text></navLabel>
+<content src="chapter580.html"/>
+</navPoint>
+<navPoint id="chapter581" playOrder="516">
+<navLabel><text>第十九篇</text></navLabel>
+<content src="chapter581.html"/>
+</navPoint>
+<navPoint id="chapter582" playOrder="517">
+<navLabel><text>第二十篇</text></navLabel>
+<content src="chapter582.html"/>
+</navPoint>
+<navPoint id="chapter583" playOrder="518">
+<navLabel><text>第二十一篇</text></navLabel>
+<content src="chapter583.html"/>
+</navPoint>
+<navPoint id="chapter584" playOrder="519">
+<navLabel><text>第二十二篇</text></navLabel>
+<content src="chapter584.html"/>
+</navPoint>
+<navPoint id="chapter585" playOrder="520">
+<navLabel><text>第二十三篇</text></navLabel>
+<content src="chapter585.html"/>
+</navPoint>
+<navPoint id="chapter586" playOrder="521">
+<navLabel><text>第二十四篇</text></navLabel>
+<content src="chapter586.html"/>
+</navPoint>
+<navPoint id="chapter587" playOrder="522">
+<navLabel><text>第二十五篇</text></navLabel>
+<content src="chapter587.html"/>
+</navPoint>
+<navPoint id="chapter588" playOrder="523">
+<navLabel><text>第二十六篇</text></navLabel>
+<content src="chapter588.html"/>
+</navPoint>
+<navPoint id="chapter589" playOrder="524">
+<navLabel><text>第二十七篇</text></navLabel>
+<content src="chapter589.html"/>
+</navPoint>
+<navPoint id="chapter590" playOrder="525">
+<navLabel><text>第二十八篇</text></navLabel>
+<content src="chapter590.html"/>
+</navPoint>
+<navPoint id="chapter591" playOrder="526">
+<navLabel><text>第二十九篇</text></navLabel>
+<content src="chapter591.html"/>
+</navPoint>
+<navPoint id="chapter592" playOrder="527">
+<navLabel><text>第三十篇</text></navLabel>
+<content src="chapter592.html"/>
+</navPoint>
+<navPoint id="chapter593" playOrder="528">
+<navLabel><text>第三十一篇</text></navLabel>
+<content src="chapter593.html"/>
+</navPoint>
+<navPoint id="chapter594" playOrder="529">
+<navLabel><text>第三十二篇</text></navLabel>
+<content src="chapter594.html"/>
+</navPoint>
+<navPoint id="chapter595" playOrder="530">
+<navLabel><text>第三十三篇</text></navLabel>
+<content src="chapter595.html"/>
+</navPoint>
+<navPoint id="chapter596" playOrder="531">
+<navLabel><text>第三十四篇</text></navLabel>
+<content src="chapter596.html"/>
+</navPoint>
+<navPoint id="chapter597" playOrder="532">
+<navLabel><text>第三十五篇</text></navLabel>
+<content src="chapter597.html"/>
+</navPoint>
+<navPoint id="chapter598" playOrder="533">
+<navLabel><text>第三十六篇</text></navLabel>
+<content src="chapter598.html"/>
+</navPoint>
+<navPoint id="chapter599" playOrder="534">
+<navLabel><text>第三十七篇</text></navLabel>
+<content src="chapter599.html"/>
+</navPoint>
+<navPoint id="chapter600" playOrder="535">
+<navLabel><text>第三十八篇</text></navLabel>
+<content src="chapter600.html"/>
+</navPoint>
+<navPoint id="chapter601" playOrder="536">
+<navLabel><text>第三十九篇</text></navLabel>
+<content src="chapter601.html"/>
+</navPoint>
+<navPoint id="chapter602" playOrder="537">
+<navLabel><text>第四十篇</text></navLabel>
+<content src="chapter602.html"/>
+</navPoint>
+<navPoint id="chapter603" playOrder="538">
+<navLabel><text>第四十一篇</text></navLabel>
+<content src="chapter603.html"/>
+</navPoint>
+<navPoint id="chapter604" playOrder="539">
+<navLabel><text>第四十二篇</text></navLabel>
+<content src="chapter604.html"/>
+</navPoint>
+<navPoint id="chapter605" playOrder="540">
+<navLabel><text>第四十三篇</text></navLabel>
+<content src="chapter605.html"/>
+</navPoint>
+<navPoint id="chapter606" playOrder="541">
+<navLabel><text>第四十四篇</text></navLabel>
+<content src="chapter606.html"/>
+</navPoint>
+<navPoint id="chapter607" playOrder="542">
+<navLabel><text>第四十五篇</text></navLabel>
+<content src="chapter607.html"/>
+</navPoint>
+<navPoint id="chapter608" playOrder="543">
+<navLabel><text>第四十六篇</text></navLabel>
+<content src="chapter608.html"/>
+</navPoint>
+<navPoint id="chapter609" playOrder="544">
+<navLabel><text>第四十七篇</text></navLabel>
+<content src="chapter609.html"/>
+</navPoint>
+<navPoint id="chapter610" playOrder="545">
+<navLabel><text>第四十八篇</text></navLabel>
+<content src="chapter610.html"/>
+</navPoint>
+<navPoint id="chapter611" playOrder="546">
+<navLabel><text>第四十九篇</text></navLabel>
+<content src="chapter611.html"/>
+</navPoint>
+<navPoint id="chapter612" playOrder="547">
+<navLabel><text>第五十篇</text></navLabel>
+<content src="chapter612.html"/>
+</navPoint>
+<navPoint id="chapter613" playOrder="548">
+<navLabel><text>第五十一篇</text></navLabel>
+<content src="chapter613.html"/>
+</navPoint>
+<navPoint id="chapter614" playOrder="549">
+<navLabel><text>第五十二篇</text></navLabel>
+<content src="chapter614.html"/>
+</navPoint>
+<navPoint id="chapter615" playOrder="550">
+<navLabel><text>第五十三篇</text></navLabel>
+<content src="chapter615.html"/>
+</navPoint>
+<navPoint id="chapter616" playOrder="551">
+<navLabel><text>第五十四篇</text></navLabel>
+<content src="chapter616.html"/>
+</navPoint>
+<navPoint id="chapter617" playOrder="552">
+<navLabel><text>第五十五篇</text></navLabel>
+<content src="chapter617.html"/>
+</navPoint>
+<navPoint id="chapter618" playOrder="553">
+<navLabel><text>第五十六篇</text></navLabel>
+<content src="chapter618.html"/>
+</navPoint>
+<navPoint id="chapter619" playOrder="554">
+<navLabel><text>第五十七篇</text></navLabel>
+<content src="chapter619.html"/>
+</navPoint>
+<navPoint id="chapter620" playOrder="555">
+<navLabel><text>第五十八篇</text></navLabel>
+<content src="chapter620.html"/>
+</navPoint>
+<navPoint id="chapter621" playOrder="556">
+<navLabel><text>第五十九篇</text></navLabel>
+<content src="chapter621.html"/>
+</navPoint>
+<navPoint id="chapter622" playOrder="557">
+<navLabel><text>第六十篇</text></navLabel>
+<content src="chapter622.html"/>
+</navPoint>
+<navPoint id="chapter623" playOrder="558">
+<navLabel><text>第六十一篇</text></navLabel>
+<content src="chapter623.html"/>
+</navPoint>
+<navPoint id="chapter624" playOrder="559">
+<navLabel><text>第六十二篇</text></navLabel>
+<content src="chapter624.html"/>
+</navPoint>
+<navPoint id="chapter625" playOrder="560">
+<navLabel><text>第六十三篇</text></navLabel>
+<content src="chapter625.html"/>
+</navPoint>
+<navPoint id="chapter626" playOrder="561">
+<navLabel><text>第六十四篇</text></navLabel>
+<content src="chapter626.html"/>
+</navPoint>
+<navPoint id="chapter627" playOrder="562">
+<navLabel><text>第六十五篇</text></navLabel>
+<content src="chapter627.html"/>
+</navPoint>
+<navPoint id="chapter628" playOrder="563">
+<navLabel><text>第六十六篇</text></navLabel>
+<content src="chapter628.html"/>
+</navPoint>
+<navPoint id="chapter629" playOrder="564">
+<navLabel><text>第六十七篇</text></navLabel>
+<content src="chapter629.html"/>
+</navPoint>
+<navPoint id="chapter630" playOrder="565">
+<navLabel><text>第六十八篇</text></navLabel>
+<content src="chapter630.html"/>
+</navPoint>
+<navPoint id="chapter631" playOrder="566">
+<navLabel><text>第六十九篇</text></navLabel>
+<content src="chapter631.html"/>
+</navPoint>
+<navPoint id="chapter632" playOrder="567">
+<navLabel><text>第七十篇</text></navLabel>
+<content src="chapter632.html"/>
+</navPoint>
+<navPoint id="chapter633" playOrder="568">
+<navLabel><text>第七十一篇</text></navLabel>
+<content src="chapter633.html"/>
+</navPoint>
+<navPoint id="chapter634" playOrder="569">
+<navLabel><text>第七十二篇</text></navLabel>
+<content src="chapter634.html"/>
+</navPoint>
+<navPoint id="chapter635" playOrder="570">
+<navLabel><text>第七十三篇</text></navLabel>
+<content src="chapter635.html"/>
+</navPoint>
+<navPoint id="chapter636" playOrder="571">
+<navLabel><text>第七十四篇</text></navLabel>
+<content src="chapter636.html"/>
+</navPoint>
+<navPoint id="chapter637" playOrder="572">
+<navLabel><text>第七十五篇</text></navLabel>
+<content src="chapter637.html"/>
+</navPoint>
+<navPoint id="chapter638" playOrder="573">
+<navLabel><text>第七十六篇</text></navLabel>
+<content src="chapter638.html"/>
+</navPoint>
+<navPoint id="chapter639" playOrder="574">
+<navLabel><text>第七十七篇</text></navLabel>
+<content src="chapter639.html"/>
+</navPoint>
+<navPoint id="chapter640" playOrder="575">
+<navLabel><text>第七十八篇</text></navLabel>
+<content src="chapter640.html"/>
+</navPoint>
+<navPoint id="chapter641" playOrder="576">
+<navLabel><text>第七十九篇</text></navLabel>
+<content src="chapter641.html"/>
+</navPoint>
+<navPoint id="chapter642" playOrder="577">
+<navLabel><text>第八十篇</text></navLabel>
+<content src="chapter642.html"/>
+</navPoint>
+<navPoint id="chapter643" playOrder="578">
+<navLabel><text>第八十一篇</text></navLabel>
+<content src="chapter643.html"/>
+</navPoint>
+<navPoint id="chapter644" playOrder="579">
+<navLabel><text>第八十二篇</text></navLabel>
+<content src="chapter644.html"/>
+</navPoint>
+<navPoint id="chapter645" playOrder="580">
+<navLabel><text>第八十三篇</text></navLabel>
+<content src="chapter645.html"/>
+</navPoint>
+<navPoint id="chapter646" playOrder="581">
+<navLabel><text>第八十四篇</text></navLabel>
+<content src="chapter646.html"/>
+</navPoint>
+<navPoint id="chapter647" playOrder="582">
+<navLabel><text>第八十五篇</text></navLabel>
+<content src="chapter647.html"/>
+</navPoint>
+<navPoint id="chapter648" playOrder="583">
+<navLabel><text>第八十六篇</text></navLabel>
+<content src="chapter648.html"/>
+</navPoint>
+<navPoint id="chapter649" playOrder="584">
+<navLabel><text>第八十七篇</text></navLabel>
+<content src="chapter649.html"/>
+</navPoint>
+<navPoint id="chapter650" playOrder="585">
+<navLabel><text>第八十八篇</text></navLabel>
+<content src="chapter650.html"/>
+</navPoint>
+<navPoint id="chapter651" playOrder="586">
+<navLabel><text>第八十九篇</text></navLabel>
+<content src="chapter651.html"/>
+</navPoint>
+<navPoint id="chapter652" playOrder="587">
+<navLabel><text>第九十篇</text></navLabel>
+<content src="chapter652.html"/>
+</navPoint>
+<navPoint id="chapter653" playOrder="588">
+<navLabel><text>第九十一篇</text></navLabel>
+<content src="chapter653.html"/>
+</navPoint>
+<navPoint id="chapter654" playOrder="589">
+<navLabel><text>第九十二篇</text></navLabel>
+<content src="chapter654.html"/>
+</navPoint>
+<navPoint id="chapter655" playOrder="590">
+<navLabel><text>第九十三篇</text></navLabel>
+<content src="chapter655.html"/>
+</navPoint>
+<navPoint id="chapter656" playOrder="591">
+<navLabel><text>第九十四篇</text></navLabel>
+<content src="chapter656.html"/>
+</navPoint>
+<navPoint id="chapter657" playOrder="592">
+<navLabel><text>第九十五篇</text></navLabel>
+<content src="chapter657.html"/>
+</navPoint>
+<navPoint id="chapter658" playOrder="593">
+<navLabel><text>第九十六篇</text></navLabel>
+<content src="chapter658.html"/>
+</navPoint>
+<navPoint id="chapter659" playOrder="594">
+<navLabel><text>第九十七篇</text></navLabel>
+<content src="chapter659.html"/>
+</navPoint>
+<navPoint id="chapter660" playOrder="595">
+<navLabel><text>第九十八篇</text></navLabel>
+<content src="chapter660.html"/>
+</navPoint>
+<navPoint id="chapter661" playOrder="596">
+<navLabel><text>第九十九篇</text></navLabel>
+<content src="chapter661.html"/>
+</navPoint>
+<navPoint id="chapter662" playOrder="597">
+<navLabel><text>第一百篇</text></navLabel>
+<content src="chapter662.html"/>
+</navPoint>
+<navPoint id="chapter663" playOrder="598">
+<navLabel><text>第百十一篇</text></navLabel>
+<content src="chapter663.html"/>
+</navPoint>
+<navPoint id="chapter664" playOrder="599">
+<navLabel><text>第百十二篇</text></navLabel>
+<content src="chapter664.html"/>
+</navPoint>
+<navPoint id="chapter665" playOrder="600">
+<navLabel><text>第百十三篇</text></navLabel>
+<content src="chapter665.html"/>
+</navPoint>
+<navPoint id="chapter666" playOrder="601">
+<navLabel><text>第百十四篇</text></navLabel>
+<content src="chapter666.html"/>
+</navPoint>
+<navPoint id="chapter667" playOrder="602">
+<navLabel><text>第百十五篇</text></navLabel>
+<content src="chapter667.html"/>
+</navPoint>
+<navPoint id="chapter668" playOrder="603">
+<navLabel><text>第百十六篇</text></navLabel>
+<content src="chapter668.html"/>
+</navPoint>
+<navPoint id="chapter669" playOrder="604">
+<navLabel><text>第百十七篇</text></navLabel>
+<content src="chapter669.html"/>
+</navPoint>
+<navPoint id="chapter670" playOrder="605">
+<navLabel><text>第百十八篇</text></navLabel>
+<content src="chapter670.html"/>
+</navPoint>
+<navPoint id="chapter671" playOrder="606">
+<navLabel><text>第百十九篇</text></navLabel>
+<content src="chapter671.html"/>
+</navPoint>
+<navPoint id="chapter672" playOrder="607">
+<navLabel><text>第百二十篇</text></navLabel>
+<content src="chapter672.html"/>
+</navPoint>
+<navPoint id="chapter673" playOrder="608">
+<navLabel><text>第百二十一篇</text></navLabel>
+<content src="chapter673.html"/>
+</navPoint>
+<navPoint id="chapter674" playOrder="609">
+<navLabel><text>第百二十二篇</text></navLabel>
+<content src="chapter674.html"/>
+</navPoint>
+<navPoint id="chapter675" playOrder="610">
+<navLabel><text>第百二十三篇</text></navLabel>
+<content src="chapter675.html"/>
+</navPoint>
+<navPoint id="chapter676" playOrder="611">
+<navLabel><text>第百二十四篇</text></navLabel>
+<content src="chapter676.html"/>
+</navPoint>
+<navPoint id="chapter677" playOrder="612">
+<navLabel><text>第百二十五篇</text></navLabel>
+<content src="chapter677.html"/>
+</navPoint>
+<navPoint id="chapter678" playOrder="613">
+<navLabel><text>第百二十六篇</text></navLabel>
+<content src="chapter678.html"/>
+</navPoint>
+<navPoint id="chapter679" playOrder="614">
+<navLabel><text>第百二十七篇</text></navLabel>
+<content src="chapter679.html"/>
+</navPoint>
+<navPoint id="chapter680" playOrder="615">
+<navLabel><text>第百二十八篇</text></navLabel>
+<content src="chapter680.html"/>
+</navPoint>
+<navPoint id="chapter681" playOrder="616">
+<navLabel><text>第百二十九篇</text></navLabel>
+<content src="chapter681.html"/>
+</navPoint>
+<navPoint id="chapter682" playOrder="617">
+<navLabel><text>第百三十篇</text></navLabel>
+<content src="chapter682.html"/>
+</navPoint>
+<navPoint id="chapter683" playOrder="618">
+<navLabel><text>第百三十一篇</text></navLabel>
+<content src="chapter683.html"/>
+</navPoint>
+<navPoint id="chapter684" playOrder="619">
+<navLabel><text>第百三十二篇</text></navLabel>
+<content src="chapter684.html"/>
+</navPoint>
+<navPoint id="chapter685" playOrder="620">
+<navLabel><text>第百三十三篇</text></navLabel>
+<content src="chapter685.html"/>
+</navPoint>
+<navPoint id="chapter686" playOrder="621">
+<navLabel><text>第百三十四篇</text></navLabel>
+<content src="chapter686.html"/>
+</navPoint>
+<navPoint id="chapter687" playOrder="622">
+<navLabel><text>第百三十五篇</text></navLabel>
+<content src="chapter687.html"/>
+</navPoint>
+<navPoint id="chapter688" playOrder="623">
+<navLabel><text>第百三十六篇</text></navLabel>
+<content src="chapter688.html"/>
+</navPoint>
+<navPoint id="chapter689" playOrder="624">
+<navLabel><text>第百三十七篇</text></navLabel>
+<content src="chapter689.html"/>
+</navPoint>
+<navPoint id="chapter690" playOrder="625">
+<navLabel><text>第百三十八篇</text></navLabel>
+<content src="chapter690.html"/>
+</navPoint>
+<navPoint id="chapter691" playOrder="626">
+<navLabel><text>第百三十九篇</text></navLabel>
+<content src="chapter691.html"/>
+</navPoint>
+<navPoint id="chapter692" playOrder="627">
+<navLabel><text>第百四十篇</text></navLabel>
+<content src="chapter692.html"/>
+</navPoint>
+<navPoint id="chapter693" playOrder="628">
+<navLabel><text>第百四十一篇</text></navLabel>
+<content src="chapter693.html"/>
+</navPoint>
+<navPoint id="chapter694" playOrder="629">
+<navLabel><text>第百四十二篇</text></navLabel>
+<content src="chapter694.html"/>
+</navPoint>
+<navPoint id="chapter695" playOrder="630">
+<navLabel><text>第百四十三篇</text></navLabel>
+<content src="chapter695.html"/>
+</navPoint>
+<navPoint id="chapter696" playOrder="631">
+<navLabel><text>第百四十四篇</text></navLabel>
+<content src="chapter696.html"/>
+</navPoint>
+<navPoint id="chapter697" playOrder="632">
+<navLabel><text>第百四十五篇</text></navLabel>
+<content src="chapter697.html"/>
+</navPoint>
+<navPoint id="chapter698" playOrder="633">
+<navLabel><text>第百四十六篇</text></navLabel>
+<content src="chapter698.html"/>
+</navPoint>
+<navPoint id="chapter699" playOrder="634">
+<navLabel><text>第百四十七篇</text></navLabel>
+<content src="chapter699.html"/>
+</navPoint>
+<navPoint id="chapter700" playOrder="635">
+<navLabel><text>第百四十八篇</text></navLabel>
+<content src="chapter700.html"/>
+</navPoint>
+<navPoint id="chapter701" playOrder="636">
+<navLabel><text>第百四十九篇</text></navLabel>
+<content src="chapter701.html"/>
+</navPoint>
+<navPoint id="chapter702" playOrder="637">
+<navLabel><text>第百五十篇</text></navLabel>
+<content src="chapter702.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter20" playOrder="638">
+<navLabel><text>箴言</text></navLabel>
+<content src="chapter20.html"/>
+<navPoint id="chapter703" playOrder="639">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter703.html"/>
+</navPoint>
+<navPoint id="chapter704" playOrder="640">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter704.html"/>
+</navPoint>
+<navPoint id="chapter705" playOrder="641">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter705.html"/>
+</navPoint>
+<navPoint id="chapter706" playOrder="642">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter706.html"/>
+</navPoint>
+<navPoint id="chapter707" playOrder="643">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter707.html"/>
+</navPoint>
+<navPoint id="chapter708" playOrder="644">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter708.html"/>
+</navPoint>
+<navPoint id="chapter709" playOrder="645">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter709.html"/>
+</navPoint>
+<navPoint id="chapter710" playOrder="646">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter710.html"/>
+</navPoint>
+<navPoint id="chapter711" playOrder="647">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter711.html"/>
+</navPoint>
+<navPoint id="chapter712" playOrder="648">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter712.html"/>
+</navPoint>
+<navPoint id="chapter713" playOrder="649">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter713.html"/>
+</navPoint>
+<navPoint id="chapter714" playOrder="650">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter714.html"/>
+</navPoint>
+<navPoint id="chapter715" playOrder="651">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter715.html"/>
+</navPoint>
+<navPoint id="chapter716" playOrder="652">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter716.html"/>
+</navPoint>
+<navPoint id="chapter717" playOrder="653">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter717.html"/>
+</navPoint>
+<navPoint id="chapter718" playOrder="654">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter718.html"/>
+</navPoint>
+<navPoint id="chapter719" playOrder="655">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter719.html"/>
+</navPoint>
+<navPoint id="chapter720" playOrder="656">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter720.html"/>
+</navPoint>
+<navPoint id="chapter721" playOrder="657">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter721.html"/>
+</navPoint>
+<navPoint id="chapter722" playOrder="658">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter722.html"/>
+</navPoint>
+<navPoint id="chapter723" playOrder="659">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter723.html"/>
+</navPoint>
+<navPoint id="chapter724" playOrder="660">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter724.html"/>
+</navPoint>
+<navPoint id="chapter725" playOrder="661">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter725.html"/>
+</navPoint>
+<navPoint id="chapter726" playOrder="662">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter726.html"/>
+</navPoint>
+<navPoint id="chapter727" playOrder="663">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter727.html"/>
+</navPoint>
+<navPoint id="chapter728" playOrder="664">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter728.html"/>
+</navPoint>
+<navPoint id="chapter729" playOrder="665">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter729.html"/>
+</navPoint>
+<navPoint id="chapter730" playOrder="666">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter730.html"/>
+</navPoint>
+<navPoint id="chapter731" playOrder="667">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter731.html"/>
+</navPoint>
+<navPoint id="chapter732" playOrder="668">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter732.html"/>
+</navPoint>
+<navPoint id="chapter733" playOrder="669">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter733.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter21" playOrder="670">
+<navLabel><text>传道书</text></navLabel>
+<content src="chapter21.html"/>
+<navPoint id="chapter734" playOrder="671">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter734.html"/>
+</navPoint>
+<navPoint id="chapter735" playOrder="672">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter735.html"/>
+</navPoint>
+<navPoint id="chapter736" playOrder="673">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter736.html"/>
+</navPoint>
+<navPoint id="chapter737" playOrder="674">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter737.html"/>
+</navPoint>
+<navPoint id="chapter738" playOrder="675">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter738.html"/>
+</navPoint>
+<navPoint id="chapter739" playOrder="676">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter739.html"/>
+</navPoint>
+<navPoint id="chapter740" playOrder="677">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter740.html"/>
+</navPoint>
+<navPoint id="chapter741" playOrder="678">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter741.html"/>
+</navPoint>
+<navPoint id="chapter742" playOrder="679">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter742.html"/>
+</navPoint>
+<navPoint id="chapter743" playOrder="680">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter743.html"/>
+</navPoint>
+<navPoint id="chapter744" playOrder="681">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter744.html"/>
+</navPoint>
+<navPoint id="chapter745" playOrder="682">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter745.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter22" playOrder="683">
+<navLabel><text>雅歌</text></navLabel>
+<content src="chapter22.html"/>
+<navPoint id="chapter746" playOrder="684">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter746.html"/>
+</navPoint>
+<navPoint id="chapter747" playOrder="685">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter747.html"/>
+</navPoint>
+<navPoint id="chapter748" playOrder="686">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter748.html"/>
+</navPoint>
+<navPoint id="chapter749" playOrder="687">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter749.html"/>
+</navPoint>
+<navPoint id="chapter750" playOrder="688">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter750.html"/>
+</navPoint>
+<navPoint id="chapter751" playOrder="689">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter751.html"/>
+</navPoint>
+<navPoint id="chapter752" playOrder="690">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter752.html"/>
+</navPoint>
+<navPoint id="chapter753" playOrder="691">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter753.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter23" playOrder="692">
+<navLabel><text>以赛亚书</text></navLabel>
+<content src="chapter23.html"/>
+<navPoint id="chapter754" playOrder="693">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter754.html"/>
+</navPoint>
+<navPoint id="chapter755" playOrder="694">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter755.html"/>
+</navPoint>
+<navPoint id="chapter756" playOrder="695">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter756.html"/>
+</navPoint>
+<navPoint id="chapter757" playOrder="696">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter757.html"/>
+</navPoint>
+<navPoint id="chapter758" playOrder="697">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter758.html"/>
+</navPoint>
+<navPoint id="chapter759" playOrder="698">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter759.html"/>
+</navPoint>
+<navPoint id="chapter760" playOrder="699">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter760.html"/>
+</navPoint>
+<navPoint id="chapter761" playOrder="700">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter761.html"/>
+</navPoint>
+<navPoint id="chapter762" playOrder="701">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter762.html"/>
+</navPoint>
+<navPoint id="chapter763" playOrder="702">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter763.html"/>
+</navPoint>
+<navPoint id="chapter764" playOrder="703">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter764.html"/>
+</navPoint>
+<navPoint id="chapter765" playOrder="704">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter765.html"/>
+</navPoint>
+<navPoint id="chapter766" playOrder="705">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter766.html"/>
+</navPoint>
+<navPoint id="chapter767" playOrder="706">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter767.html"/>
+</navPoint>
+<navPoint id="chapter768" playOrder="707">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter768.html"/>
+</navPoint>
+<navPoint id="chapter769" playOrder="708">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter769.html"/>
+</navPoint>
+<navPoint id="chapter770" playOrder="709">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter770.html"/>
+</navPoint>
+<navPoint id="chapter771" playOrder="710">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter771.html"/>
+</navPoint>
+<navPoint id="chapter772" playOrder="711">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter772.html"/>
+</navPoint>
+<navPoint id="chapter773" playOrder="712">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter773.html"/>
+</navPoint>
+<navPoint id="chapter774" playOrder="713">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter774.html"/>
+</navPoint>
+<navPoint id="chapter775" playOrder="714">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter775.html"/>
+</navPoint>
+<navPoint id="chapter776" playOrder="715">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter776.html"/>
+</navPoint>
+<navPoint id="chapter777" playOrder="716">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter777.html"/>
+</navPoint>
+<navPoint id="chapter778" playOrder="717">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter778.html"/>
+</navPoint>
+<navPoint id="chapter779" playOrder="718">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter779.html"/>
+</navPoint>
+<navPoint id="chapter780" playOrder="719">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter780.html"/>
+</navPoint>
+<navPoint id="chapter781" playOrder="720">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter781.html"/>
+</navPoint>
+<navPoint id="chapter782" playOrder="721">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter782.html"/>
+</navPoint>
+<navPoint id="chapter783" playOrder="722">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter783.html"/>
+</navPoint>
+<navPoint id="chapter784" playOrder="723">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter784.html"/>
+</navPoint>
+<navPoint id="chapter785" playOrder="724">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter785.html"/>
+</navPoint>
+<navPoint id="chapter786" playOrder="725">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter786.html"/>
+</navPoint>
+<navPoint id="chapter787" playOrder="726">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter787.html"/>
+</navPoint>
+<navPoint id="chapter788" playOrder="727">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter788.html"/>
+</navPoint>
+<navPoint id="chapter789" playOrder="728">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter789.html"/>
+</navPoint>
+<navPoint id="chapter790" playOrder="729">
+<navLabel><text>第三十七章</text></navLabel>
+<content src="chapter790.html"/>
+</navPoint>
+<navPoint id="chapter791" playOrder="730">
+<navLabel><text>第三十八章</text></navLabel>
+<content src="chapter791.html"/>
+</navPoint>
+<navPoint id="chapter792" playOrder="731">
+<navLabel><text>第三十九章</text></navLabel>
+<content src="chapter792.html"/>
+</navPoint>
+<navPoint id="chapter793" playOrder="732">
+<navLabel><text>第四十章</text></navLabel>
+<content src="chapter793.html"/>
+</navPoint>
+<navPoint id="chapter794" playOrder="733">
+<navLabel><text>第四十一章</text></navLabel>
+<content src="chapter794.html"/>
+</navPoint>
+<navPoint id="chapter795" playOrder="734">
+<navLabel><text>第四十二章</text></navLabel>
+<content src="chapter795.html"/>
+</navPoint>
+<navPoint id="chapter796" playOrder="735">
+<navLabel><text>第四十三章</text></navLabel>
+<content src="chapter796.html"/>
+</navPoint>
+<navPoint id="chapter797" playOrder="736">
+<navLabel><text>第四十四章</text></navLabel>
+<content src="chapter797.html"/>
+</navPoint>
+<navPoint id="chapter798" playOrder="737">
+<navLabel><text>第四十五章</text></navLabel>
+<content src="chapter798.html"/>
+</navPoint>
+<navPoint id="chapter799" playOrder="738">
+<navLabel><text>第四十六章</text></navLabel>
+<content src="chapter799.html"/>
+</navPoint>
+<navPoint id="chapter800" playOrder="739">
+<navLabel><text>第四十七章</text></navLabel>
+<content src="chapter800.html"/>
+</navPoint>
+<navPoint id="chapter801" playOrder="740">
+<navLabel><text>第四十八章</text></navLabel>
+<content src="chapter801.html"/>
+</navPoint>
+<navPoint id="chapter802" playOrder="741">
+<navLabel><text>第四十九章</text></navLabel>
+<content src="chapter802.html"/>
+</navPoint>
+<navPoint id="chapter803" playOrder="742">
+<navLabel><text>第五十章</text></navLabel>
+<content src="chapter803.html"/>
+</navPoint>
+<navPoint id="chapter804" playOrder="743">
+<navLabel><text>第五十一章</text></navLabel>
+<content src="chapter804.html"/>
+</navPoint>
+<navPoint id="chapter805" playOrder="744">
+<navLabel><text>第五十二章</text></navLabel>
+<content src="chapter805.html"/>
+</navPoint>
+<navPoint id="chapter806" playOrder="745">
+<navLabel><text>第五十三章</text></navLabel>
+<content src="chapter806.html"/>
+</navPoint>
+<navPoint id="chapter807" playOrder="746">
+<navLabel><text>第五十四章</text></navLabel>
+<content src="chapter807.html"/>
+</navPoint>
+<navPoint id="chapter808" playOrder="747">
+<navLabel><text>第五十五章</text></navLabel>
+<content src="chapter808.html"/>
+</navPoint>
+<navPoint id="chapter809" playOrder="748">
+<navLabel><text>第五十六章</text></navLabel>
+<content src="chapter809.html"/>
+</navPoint>
+<navPoint id="chapter810" playOrder="749">
+<navLabel><text>第五十七章</text></navLabel>
+<content src="chapter810.html"/>
+</navPoint>
+<navPoint id="chapter811" playOrder="750">
+<navLabel><text>第五十八章</text></navLabel>
+<content src="chapter811.html"/>
+</navPoint>
+<navPoint id="chapter812" playOrder="751">
+<navLabel><text>第五十九章</text></navLabel>
+<content src="chapter812.html"/>
+</navPoint>
+<navPoint id="chapter813" playOrder="752">
+<navLabel><text>第六十章</text></navLabel>
+<content src="chapter813.html"/>
+</navPoint>
+<navPoint id="chapter814" playOrder="753">
+<navLabel><text>第六十一章</text></navLabel>
+<content src="chapter814.html"/>
+</navPoint>
+<navPoint id="chapter815" playOrder="754">
+<navLabel><text>第六十二章</text></navLabel>
+<content src="chapter815.html"/>
+</navPoint>
+<navPoint id="chapter816" playOrder="755">
+<navLabel><text>第六十三章</text></navLabel>
+<content src="chapter816.html"/>
+</navPoint>
+<navPoint id="chapter817" playOrder="756">
+<navLabel><text>第六十四章</text></navLabel>
+<content src="chapter817.html"/>
+</navPoint>
+<navPoint id="chapter818" playOrder="757">
+<navLabel><text>第六十五章</text></navLabel>
+<content src="chapter818.html"/>
+</navPoint>
+<navPoint id="chapter819" playOrder="758">
+<navLabel><text>第六十六章</text></navLabel>
+<content src="chapter819.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter24" playOrder="759">
+<navLabel><text>耶利米书</text></navLabel>
+<content src="chapter24.html"/>
+<navPoint id="chapter820" playOrder="760">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter820.html"/>
+</navPoint>
+<navPoint id="chapter821" playOrder="761">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter821.html"/>
+</navPoint>
+<navPoint id="chapter822" playOrder="762">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter822.html"/>
+</navPoint>
+<navPoint id="chapter823" playOrder="763">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter823.html"/>
+</navPoint>
+<navPoint id="chapter824" playOrder="764">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter824.html"/>
+</navPoint>
+<navPoint id="chapter825" playOrder="765">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter825.html"/>
+</navPoint>
+<navPoint id="chapter826" playOrder="766">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter826.html"/>
+</navPoint>
+<navPoint id="chapter827" playOrder="767">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter827.html"/>
+</navPoint>
+<navPoint id="chapter828" playOrder="768">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter828.html"/>
+</navPoint>
+<navPoint id="chapter829" playOrder="769">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter829.html"/>
+</navPoint>
+<navPoint id="chapter830" playOrder="770">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter830.html"/>
+</navPoint>
+<navPoint id="chapter831" playOrder="771">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter831.html"/>
+</navPoint>
+<navPoint id="chapter832" playOrder="772">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter832.html"/>
+</navPoint>
+<navPoint id="chapter833" playOrder="773">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter833.html"/>
+</navPoint>
+<navPoint id="chapter834" playOrder="774">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter834.html"/>
+</navPoint>
+<navPoint id="chapter835" playOrder="775">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter835.html"/>
+</navPoint>
+<navPoint id="chapter836" playOrder="776">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter836.html"/>
+</navPoint>
+<navPoint id="chapter837" playOrder="777">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter837.html"/>
+</navPoint>
+<navPoint id="chapter838" playOrder="778">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter838.html"/>
+</navPoint>
+<navPoint id="chapter839" playOrder="779">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter839.html"/>
+</navPoint>
+<navPoint id="chapter840" playOrder="780">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter840.html"/>
+</navPoint>
+<navPoint id="chapter841" playOrder="781">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter841.html"/>
+</navPoint>
+<navPoint id="chapter842" playOrder="782">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter842.html"/>
+</navPoint>
+<navPoint id="chapter843" playOrder="783">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter843.html"/>
+</navPoint>
+<navPoint id="chapter844" playOrder="784">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter844.html"/>
+</navPoint>
+<navPoint id="chapter845" playOrder="785">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter845.html"/>
+</navPoint>
+<navPoint id="chapter846" playOrder="786">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter846.html"/>
+</navPoint>
+<navPoint id="chapter847" playOrder="787">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter847.html"/>
+</navPoint>
+<navPoint id="chapter848" playOrder="788">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter848.html"/>
+</navPoint>
+<navPoint id="chapter849" playOrder="789">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter849.html"/>
+</navPoint>
+<navPoint id="chapter850" playOrder="790">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter850.html"/>
+</navPoint>
+<navPoint id="chapter851" playOrder="791">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter851.html"/>
+</navPoint>
+<navPoint id="chapter852" playOrder="792">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter852.html"/>
+</navPoint>
+<navPoint id="chapter853" playOrder="793">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter853.html"/>
+</navPoint>
+<navPoint id="chapter854" playOrder="794">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter854.html"/>
+</navPoint>
+<navPoint id="chapter855" playOrder="795">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter855.html"/>
+</navPoint>
+<navPoint id="chapter856" playOrder="796">
+<navLabel><text>第三十七章</text></navLabel>
+<content src="chapter856.html"/>
+</navPoint>
+<navPoint id="chapter857" playOrder="797">
+<navLabel><text>第三十八章</text></navLabel>
+<content src="chapter857.html"/>
+</navPoint>
+<navPoint id="chapter858" playOrder="798">
+<navLabel><text>第三十九章</text></navLabel>
+<content src="chapter858.html"/>
+</navPoint>
+<navPoint id="chapter859" playOrder="799">
+<navLabel><text>第四十章</text></navLabel>
+<content src="chapter859.html"/>
+</navPoint>
+<navPoint id="chapter860" playOrder="800">
+<navLabel><text>第四十一章</text></navLabel>
+<content src="chapter860.html"/>
+</navPoint>
+<navPoint id="chapter861" playOrder="801">
+<navLabel><text>第四十二章</text></navLabel>
+<content src="chapter861.html"/>
+</navPoint>
+<navPoint id="chapter862" playOrder="802">
+<navLabel><text>第四十三章</text></navLabel>
+<content src="chapter862.html"/>
+</navPoint>
+<navPoint id="chapter863" playOrder="803">
+<navLabel><text>第四十四章</text></navLabel>
+<content src="chapter863.html"/>
+</navPoint>
+<navPoint id="chapter864" playOrder="804">
+<navLabel><text>第四十五章</text></navLabel>
+<content src="chapter864.html"/>
+</navPoint>
+<navPoint id="chapter865" playOrder="805">
+<navLabel><text>第四十六章</text></navLabel>
+<content src="chapter865.html"/>
+</navPoint>
+<navPoint id="chapter866" playOrder="806">
+<navLabel><text>第四十七章</text></navLabel>
+<content src="chapter866.html"/>
+</navPoint>
+<navPoint id="chapter867" playOrder="807">
+<navLabel><text>第四十八章</text></navLabel>
+<content src="chapter867.html"/>
+</navPoint>
+<navPoint id="chapter868" playOrder="808">
+<navLabel><text>第四十九章</text></navLabel>
+<content src="chapter868.html"/>
+</navPoint>
+<navPoint id="chapter869" playOrder="809">
+<navLabel><text>第五十章</text></navLabel>
+<content src="chapter869.html"/>
+</navPoint>
+<navPoint id="chapter870" playOrder="810">
+<navLabel><text>第五十一章</text></navLabel>
+<content src="chapter870.html"/>
+</navPoint>
+<navPoint id="chapter871" playOrder="811">
+<navLabel><text>第五十二章</text></navLabel>
+<content src="chapter871.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter25" playOrder="812">
+<navLabel><text>耶利米哀歌</text></navLabel>
+<content src="chapter25.html"/>
+<navPoint id="chapter872" playOrder="813">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter872.html"/>
+</navPoint>
+<navPoint id="chapter873" playOrder="814">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter873.html"/>
+</navPoint>
+<navPoint id="chapter874" playOrder="815">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter874.html"/>
+</navPoint>
+<navPoint id="chapter875" playOrder="816">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter875.html"/>
+</navPoint>
+<navPoint id="chapter876" playOrder="817">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter876.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter26" playOrder="818">
+<navLabel><text>以西结书</text></navLabel>
+<content src="chapter26.html"/>
+<navPoint id="chapter877" playOrder="819">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter877.html"/>
+</navPoint>
+<navPoint id="chapter878" playOrder="820">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter878.html"/>
+</navPoint>
+<navPoint id="chapter879" playOrder="821">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter879.html"/>
+</navPoint>
+<navPoint id="chapter880" playOrder="822">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter880.html"/>
+</navPoint>
+<navPoint id="chapter881" playOrder="823">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter881.html"/>
+</navPoint>
+<navPoint id="chapter882" playOrder="824">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter882.html"/>
+</navPoint>
+<navPoint id="chapter883" playOrder="825">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter883.html"/>
+</navPoint>
+<navPoint id="chapter884" playOrder="826">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter884.html"/>
+</navPoint>
+<navPoint id="chapter885" playOrder="827">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter885.html"/>
+</navPoint>
+<navPoint id="chapter886" playOrder="828">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter886.html"/>
+</navPoint>
+<navPoint id="chapter887" playOrder="829">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter887.html"/>
+</navPoint>
+<navPoint id="chapter888" playOrder="830">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter888.html"/>
+</navPoint>
+<navPoint id="chapter889" playOrder="831">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter889.html"/>
+</navPoint>
+<navPoint id="chapter890" playOrder="832">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter890.html"/>
+</navPoint>
+<navPoint id="chapter891" playOrder="833">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter891.html"/>
+</navPoint>
+<navPoint id="chapter892" playOrder="834">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter892.html"/>
+</navPoint>
+<navPoint id="chapter893" playOrder="835">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter893.html"/>
+</navPoint>
+<navPoint id="chapter894" playOrder="836">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter894.html"/>
+</navPoint>
+<navPoint id="chapter895" playOrder="837">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter895.html"/>
+</navPoint>
+<navPoint id="chapter896" playOrder="838">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter896.html"/>
+</navPoint>
+<navPoint id="chapter897" playOrder="839">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter897.html"/>
+</navPoint>
+<navPoint id="chapter898" playOrder="840">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter898.html"/>
+</navPoint>
+<navPoint id="chapter899" playOrder="841">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter899.html"/>
+</navPoint>
+<navPoint id="chapter900" playOrder="842">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter900.html"/>
+</navPoint>
+<navPoint id="chapter901" playOrder="843">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter901.html"/>
+</navPoint>
+<navPoint id="chapter902" playOrder="844">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter902.html"/>
+</navPoint>
+<navPoint id="chapter903" playOrder="845">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter903.html"/>
+</navPoint>
+<navPoint id="chapter904" playOrder="846">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter904.html"/>
+</navPoint>
+<navPoint id="chapter905" playOrder="847">
+<navLabel><text>第二十九章</text></navLabel>
+<content src="chapter905.html"/>
+</navPoint>
+<navPoint id="chapter906" playOrder="848">
+<navLabel><text>第三十章</text></navLabel>
+<content src="chapter906.html"/>
+</navPoint>
+<navPoint id="chapter907" playOrder="849">
+<navLabel><text>第三十一章</text></navLabel>
+<content src="chapter907.html"/>
+</navPoint>
+<navPoint id="chapter908" playOrder="850">
+<navLabel><text>第三十二章</text></navLabel>
+<content src="chapter908.html"/>
+</navPoint>
+<navPoint id="chapter909" playOrder="851">
+<navLabel><text>第三十三章</text></navLabel>
+<content src="chapter909.html"/>
+</navPoint>
+<navPoint id="chapter910" playOrder="852">
+<navLabel><text>第三十四章</text></navLabel>
+<content src="chapter910.html"/>
+</navPoint>
+<navPoint id="chapter911" playOrder="853">
+<navLabel><text>第三十五章</text></navLabel>
+<content src="chapter911.html"/>
+</navPoint>
+<navPoint id="chapter912" playOrder="854">
+<navLabel><text>第三十六章</text></navLabel>
+<content src="chapter912.html"/>
+</navPoint>
+<navPoint id="chapter913" playOrder="855">
+<navLabel><text>第三十七章</text></navLabel>
+<content src="chapter913.html"/>
+</navPoint>
+<navPoint id="chapter914" playOrder="856">
+<navLabel><text>第三十八章</text></navLabel>
+<content src="chapter914.html"/>
+</navPoint>
+<navPoint id="chapter915" playOrder="857">
+<navLabel><text>第三十九章</text></navLabel>
+<content src="chapter915.html"/>
+</navPoint>
+<navPoint id="chapter916" playOrder="858">
+<navLabel><text>第四十章</text></navLabel>
+<content src="chapter916.html"/>
+</navPoint>
+<navPoint id="chapter917" playOrder="859">
+<navLabel><text>第四十一章</text></navLabel>
+<content src="chapter917.html"/>
+</navPoint>
+<navPoint id="chapter918" playOrder="860">
+<navLabel><text>第四十二章</text></navLabel>
+<content src="chapter918.html"/>
+</navPoint>
+<navPoint id="chapter919" playOrder="861">
+<navLabel><text>第四十三章</text></navLabel>
+<content src="chapter919.html"/>
+</navPoint>
+<navPoint id="chapter920" playOrder="862">
+<navLabel><text>第四十四章</text></navLabel>
+<content src="chapter920.html"/>
+</navPoint>
+<navPoint id="chapter921" playOrder="863">
+<navLabel><text>第四十五章</text></navLabel>
+<content src="chapter921.html"/>
+</navPoint>
+<navPoint id="chapter922" playOrder="864">
+<navLabel><text>第四十六章</text></navLabel>
+<content src="chapter922.html"/>
+</navPoint>
+<navPoint id="chapter923" playOrder="865">
+<navLabel><text>第四十七章</text></navLabel>
+<content src="chapter923.html"/>
+</navPoint>
+<navPoint id="chapter924" playOrder="866">
+<navLabel><text>第四十八章</text></navLabel>
+<content src="chapter924.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter27" playOrder="867">
+<navLabel><text>但以理书</text></navLabel>
+<content src="chapter27.html"/>
+<navPoint id="chapter925" playOrder="868">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter925.html"/>
+</navPoint>
+<navPoint id="chapter926" playOrder="869">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter926.html"/>
+</navPoint>
+<navPoint id="chapter927" playOrder="870">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter927.html"/>
+</navPoint>
+<navPoint id="chapter928" playOrder="871">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter928.html"/>
+</navPoint>
+<navPoint id="chapter929" playOrder="872">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter929.html"/>
+</navPoint>
+<navPoint id="chapter930" playOrder="873">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter930.html"/>
+</navPoint>
+<navPoint id="chapter931" playOrder="874">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter931.html"/>
+</navPoint>
+<navPoint id="chapter932" playOrder="875">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter932.html"/>
+</navPoint>
+<navPoint id="chapter933" playOrder="876">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter933.html"/>
+</navPoint>
+<navPoint id="chapter934" playOrder="877">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter934.html"/>
+</navPoint>
+<navPoint id="chapter935" playOrder="878">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter935.html"/>
+</navPoint>
+<navPoint id="chapter936" playOrder="879">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter936.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter28" playOrder="880">
+<navLabel><text>何西阿书</text></navLabel>
+<content src="chapter28.html"/>
+<navPoint id="chapter937" playOrder="881">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter937.html"/>
+</navPoint>
+<navPoint id="chapter938" playOrder="882">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter938.html"/>
+</navPoint>
+<navPoint id="chapter939" playOrder="883">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter939.html"/>
+</navPoint>
+<navPoint id="chapter940" playOrder="884">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter940.html"/>
+</navPoint>
+<navPoint id="chapter941" playOrder="885">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter941.html"/>
+</navPoint>
+<navPoint id="chapter942" playOrder="886">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter942.html"/>
+</navPoint>
+<navPoint id="chapter943" playOrder="887">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter943.html"/>
+</navPoint>
+<navPoint id="chapter944" playOrder="888">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter944.html"/>
+</navPoint>
+<navPoint id="chapter945" playOrder="889">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter945.html"/>
+</navPoint>
+<navPoint id="chapter946" playOrder="890">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter946.html"/>
+</navPoint>
+<navPoint id="chapter947" playOrder="891">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter947.html"/>
+</navPoint>
+<navPoint id="chapter948" playOrder="892">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter948.html"/>
+</navPoint>
+<navPoint id="chapter949" playOrder="893">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter949.html"/>
+</navPoint>
+<navPoint id="chapter950" playOrder="894">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter950.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter29" playOrder="895">
+<navLabel><text>约珥书</text></navLabel>
+<content src="chapter29.html"/>
+<navPoint id="chapter951" playOrder="896">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter951.html"/>
+</navPoint>
+<navPoint id="chapter952" playOrder="897">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter952.html"/>
+</navPoint>
+<navPoint id="chapter953" playOrder="898">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter953.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter30" playOrder="899">
+<navLabel><text>阿摩司书</text></navLabel>
+<content src="chapter30.html"/>
+<navPoint id="chapter954" playOrder="900">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter954.html"/>
+</navPoint>
+<navPoint id="chapter955" playOrder="901">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter955.html"/>
+</navPoint>
+<navPoint id="chapter956" playOrder="902">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter956.html"/>
+</navPoint>
+<navPoint id="chapter957" playOrder="903">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter957.html"/>
+</navPoint>
+<navPoint id="chapter958" playOrder="904">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter958.html"/>
+</navPoint>
+<navPoint id="chapter959" playOrder="905">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter959.html"/>
+</navPoint>
+<navPoint id="chapter960" playOrder="906">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter960.html"/>
+</navPoint>
+<navPoint id="chapter961" playOrder="907">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter961.html"/>
+</navPoint>
+<navPoint id="chapter962" playOrder="908">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter962.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter31" playOrder="909">
+<navLabel><text>俄巴底亚书</text></navLabel>
+<content src="chapter31.html"/>
+<navPoint id="chapter963" playOrder="910">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter963.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter32" playOrder="911">
+<navLabel><text>约拿书</text></navLabel>
+<content src="chapter32.html"/>
+<navPoint id="chapter158" playOrder="912">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter158.html"/>
+</navPoint>
+<navPoint id="chapter159" playOrder="913">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter159.html"/>
+</navPoint>
+<navPoint id="chapter160" playOrder="914">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter160.html"/>
+</navPoint>
+<navPoint id="chapter161" playOrder="915">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter161.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter33" playOrder="916">
+<navLabel><text>弥迦书</text></navLabel>
+<content src="chapter33.html"/>
+<navPoint id="chapter162" playOrder="917">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter162.html"/>
+</navPoint>
+<navPoint id="chapter163" playOrder="918">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter163.html"/>
+</navPoint>
+<navPoint id="chapter164" playOrder="919">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter164.html"/>
+</navPoint>
+<navPoint id="chapter165" playOrder="920">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter165.html"/>
+</navPoint>
+<navPoint id="chapter166" playOrder="921">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter166.html"/>
+</navPoint>
+<navPoint id="chapter167" playOrder="922">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter167.html"/>
+</navPoint>
+<navPoint id="chapter168" playOrder="923">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter168.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter34" playOrder="924">
+<navLabel><text>那鸿书</text></navLabel>
+<content src="chapter34.html"/>
+<navPoint id="chapter169" playOrder="925">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter169.html"/>
+</navPoint>
+<navPoint id="chapter170" playOrder="926">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter170.html"/>
+</navPoint>
+<navPoint id="chapter171" playOrder="927">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter171.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter35" playOrder="928">
+<navLabel><text>哈巴谷书</text></navLabel>
+<content src="chapter35.html"/>
+<navPoint id="chapter172" playOrder="929">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter172.html"/>
+</navPoint>
+<navPoint id="chapter173" playOrder="930">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter173.html"/>
+</navPoint>
+<navPoint id="chapter174" playOrder="931">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter174.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter36" playOrder="932">
+<navLabel><text>西番雅书</text></navLabel>
+<content src="chapter36.html"/>
+<navPoint id="chapter964" playOrder="933">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter964.html"/>
+</navPoint>
+<navPoint id="chapter965" playOrder="934">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter965.html"/>
+</navPoint>
+<navPoint id="chapter966" playOrder="935">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter966.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter37" playOrder="936">
+<navLabel><text>哈该书</text></navLabel>
+<content src="chapter37.html"/>
+<navPoint id="chapter967" playOrder="937">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter967.html"/>
+</navPoint>
+<navPoint id="chapter968" playOrder="938">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter968.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter38" playOrder="939">
+<navLabel><text>撒迦利亚书</text></navLabel>
+<content src="chapter38.html"/>
+<navPoint id="chapter969" playOrder="940">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter969.html"/>
+</navPoint>
+<navPoint id="chapter970" playOrder="941">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter970.html"/>
+</navPoint>
+<navPoint id="chapter971" playOrder="942">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter971.html"/>
+</navPoint>
+<navPoint id="chapter972" playOrder="943">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter972.html"/>
+</navPoint>
+<navPoint id="chapter973" playOrder="944">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter973.html"/>
+</navPoint>
+<navPoint id="chapter974" playOrder="945">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter974.html"/>
+</navPoint>
+<navPoint id="chapter975" playOrder="946">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter975.html"/>
+</navPoint>
+<navPoint id="chapter976" playOrder="947">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter976.html"/>
+</navPoint>
+<navPoint id="chapter977" playOrder="948">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter977.html"/>
+</navPoint>
+<navPoint id="chapter978" playOrder="949">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter978.html"/>
+</navPoint>
+<navPoint id="chapter979" playOrder="950">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter979.html"/>
+</navPoint>
+<navPoint id="chapter980" playOrder="951">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter980.html"/>
+</navPoint>
+<navPoint id="chapter981" playOrder="952">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter981.html"/>
+</navPoint>
+<navPoint id="chapter982" playOrder="953">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter982.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter39" playOrder="954">
+<navLabel><text>玛拉基书</text></navLabel>
+<content src="chapter39.html"/>
+<navPoint id="chapter983" playOrder="955">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter983.html"/>
+</navPoint>
+<navPoint id="chapter984" playOrder="956">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter984.html"/>
+</navPoint>
+<navPoint id="chapter985" playOrder="957">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter985.html"/>
+</navPoint>
+<navPoint id="chapter986" playOrder="958">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter986.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter41" playOrder="959">
+<navLabel><text>马太福音</text></navLabel>
+<content src="chapter41.html"/>
+<navPoint id="chapter987" playOrder="960">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter987.html"/>
+</navPoint>
+<navPoint id="chapter988" playOrder="961">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter988.html"/>
+</navPoint>
+<navPoint id="chapter989" playOrder="962">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter989.html"/>
+</navPoint>
+<navPoint id="chapter990" playOrder="963">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter990.html"/>
+</navPoint>
+<navPoint id="chapter991" playOrder="964">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter991.html"/>
+</navPoint>
+<navPoint id="chapter992" playOrder="965">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter992.html"/>
+</navPoint>
+<navPoint id="chapter993" playOrder="966">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter993.html"/>
+</navPoint>
+<navPoint id="chapter994" playOrder="967">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter994.html"/>
+</navPoint>
+<navPoint id="chapter995" playOrder="968">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter995.html"/>
+</navPoint>
+<navPoint id="chapter996" playOrder="969">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter996.html"/>
+</navPoint>
+<navPoint id="chapter997" playOrder="970">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter997.html"/>
+</navPoint>
+<navPoint id="chapter998" playOrder="971">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter998.html"/>
+</navPoint>
+<navPoint id="chapter999" playOrder="972">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter999.html"/>
+</navPoint>
+<navPoint id="chapter1000" playOrder="973">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1000.html"/>
+</navPoint>
+<navPoint id="chapter1001" playOrder="974">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1001.html"/>
+</navPoint>
+<navPoint id="chapter1002" playOrder="975">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1002.html"/>
+</navPoint>
+<navPoint id="chapter1003" playOrder="976">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter1003.html"/>
+</navPoint>
+<navPoint id="chapter1004" playOrder="977">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter1004.html"/>
+</navPoint>
+<navPoint id="chapter1005" playOrder="978">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter1005.html"/>
+</navPoint>
+<navPoint id="chapter1006" playOrder="979">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter1006.html"/>
+</navPoint>
+<navPoint id="chapter1007" playOrder="980">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter1007.html"/>
+</navPoint>
+<navPoint id="chapter1008" playOrder="981">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter1008.html"/>
+</navPoint>
+<navPoint id="chapter1009" playOrder="982">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter1009.html"/>
+</navPoint>
+<navPoint id="chapter1010" playOrder="983">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter1010.html"/>
+</navPoint>
+<navPoint id="chapter1011" playOrder="984">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter1011.html"/>
+</navPoint>
+<navPoint id="chapter1012" playOrder="985">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter1012.html"/>
+</navPoint>
+<navPoint id="chapter1013" playOrder="986">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter1013.html"/>
+</navPoint>
+<navPoint id="chapter1014" playOrder="987">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter1014.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter40" playOrder="988">
+<navLabel><text>马可福音</text></navLabel>
+<content src="chapter40.html"/>
+<navPoint id="chapter1015" playOrder="989">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1015.html"/>
+</navPoint>
+<navPoint id="chapter1016" playOrder="990">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1016.html"/>
+</navPoint>
+<navPoint id="chapter1017" playOrder="991">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1017.html"/>
+</navPoint>
+<navPoint id="chapter1018" playOrder="992">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1018.html"/>
+</navPoint>
+<navPoint id="chapter1019" playOrder="993">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1019.html"/>
+</navPoint>
+<navPoint id="chapter1020" playOrder="994">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1020.html"/>
+</navPoint>
+<navPoint id="chapter1021" playOrder="995">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1021.html"/>
+</navPoint>
+<navPoint id="chapter1022" playOrder="996">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1022.html"/>
+</navPoint>
+<navPoint id="chapter1023" playOrder="997">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1023.html"/>
+</navPoint>
+<navPoint id="chapter1024" playOrder="998">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1024.html"/>
+</navPoint>
+<navPoint id="chapter1025" playOrder="999">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1025.html"/>
+</navPoint>
+<navPoint id="chapter1026" playOrder="1000">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1026.html"/>
+</navPoint>
+<navPoint id="chapter1027" playOrder="1001">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1027.html"/>
+</navPoint>
+<navPoint id="chapter1028" playOrder="1002">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1028.html"/>
+</navPoint>
+<navPoint id="chapter1029" playOrder="1003">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1029.html"/>
+</navPoint>
+<navPoint id="chapter1030" playOrder="1004">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1030.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter42" playOrder="1005">
+<navLabel><text>路加福音</text></navLabel>
+<content src="chapter42.html"/>
+<navPoint id="chapter1031" playOrder="1006">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1031.html"/>
+</navPoint>
+<navPoint id="chapter1032" playOrder="1007">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1032.html"/>
+</navPoint>
+<navPoint id="chapter1033" playOrder="1008">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1033.html"/>
+</navPoint>
+<navPoint id="chapter1034" playOrder="1009">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1034.html"/>
+</navPoint>
+<navPoint id="chapter1035" playOrder="1010">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1035.html"/>
+</navPoint>
+<navPoint id="chapter1036" playOrder="1011">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1036.html"/>
+</navPoint>
+<navPoint id="chapter1037" playOrder="1012">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1037.html"/>
+</navPoint>
+<navPoint id="chapter1038" playOrder="1013">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1038.html"/>
+</navPoint>
+<navPoint id="chapter1039" playOrder="1014">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1039.html"/>
+</navPoint>
+<navPoint id="chapter1040" playOrder="1015">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1040.html"/>
+</navPoint>
+<navPoint id="chapter1041" playOrder="1016">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1041.html"/>
+</navPoint>
+<navPoint id="chapter1042" playOrder="1017">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1042.html"/>
+</navPoint>
+<navPoint id="chapter1043" playOrder="1018">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1043.html"/>
+</navPoint>
+<navPoint id="chapter1044" playOrder="1019">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1044.html"/>
+</navPoint>
+<navPoint id="chapter1045" playOrder="1020">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1045.html"/>
+</navPoint>
+<navPoint id="chapter1046" playOrder="1021">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1046.html"/>
+</navPoint>
+<navPoint id="chapter1047" playOrder="1022">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter1047.html"/>
+</navPoint>
+<navPoint id="chapter1048" playOrder="1023">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter1048.html"/>
+</navPoint>
+<navPoint id="chapter1049" playOrder="1024">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter1049.html"/>
+</navPoint>
+<navPoint id="chapter1050" playOrder="1025">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter1050.html"/>
+</navPoint>
+<navPoint id="chapter1051" playOrder="1026">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter1051.html"/>
+</navPoint>
+<navPoint id="chapter1052" playOrder="1027">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter1052.html"/>
+</navPoint>
+<navPoint id="chapter1053" playOrder="1028">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter1053.html"/>
+</navPoint>
+<navPoint id="chapter1054" playOrder="1029">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter1054.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter43" playOrder="1030">
+<navLabel><text>约翰福音</text></navLabel>
+<content src="chapter43.html"/>
+<navPoint id="chapter1055" playOrder="1031">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1055.html"/>
+</navPoint>
+<navPoint id="chapter1056" playOrder="1032">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1056.html"/>
+</navPoint>
+<navPoint id="chapter1057" playOrder="1033">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1057.html"/>
+</navPoint>
+<navPoint id="chapter1058" playOrder="1034">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1058.html"/>
+</navPoint>
+<navPoint id="chapter1059" playOrder="1035">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1059.html"/>
+</navPoint>
+<navPoint id="chapter1060" playOrder="1036">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1060.html"/>
+</navPoint>
+<navPoint id="chapter1061" playOrder="1037">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1061.html"/>
+</navPoint>
+<navPoint id="chapter1062" playOrder="1038">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1062.html"/>
+</navPoint>
+<navPoint id="chapter1063" playOrder="1039">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1063.html"/>
+</navPoint>
+<navPoint id="chapter1064" playOrder="1040">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1064.html"/>
+</navPoint>
+<navPoint id="chapter1065" playOrder="1041">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1065.html"/>
+</navPoint>
+<navPoint id="chapter1066" playOrder="1042">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1066.html"/>
+</navPoint>
+<navPoint id="chapter1067" playOrder="1043">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1067.html"/>
+</navPoint>
+<navPoint id="chapter1068" playOrder="1044">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1068.html"/>
+</navPoint>
+<navPoint id="chapter1069" playOrder="1045">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1069.html"/>
+</navPoint>
+<navPoint id="chapter1070" playOrder="1046">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1070.html"/>
+</navPoint>
+<navPoint id="chapter1071" playOrder="1047">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter1071.html"/>
+</navPoint>
+<navPoint id="chapter1072" playOrder="1048">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter1072.html"/>
+</navPoint>
+<navPoint id="chapter1073" playOrder="1049">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter1073.html"/>
+</navPoint>
+<navPoint id="chapter1074" playOrder="1050">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter1074.html"/>
+</navPoint>
+<navPoint id="chapter1075" playOrder="1051">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter1075.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter44" playOrder="1052">
+<navLabel><text>使徒行传</text></navLabel>
+<content src="chapter44.html"/>
+<navPoint id="chapter1076" playOrder="1053">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1076.html"/>
+</navPoint>
+<navPoint id="chapter1077" playOrder="1054">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1077.html"/>
+</navPoint>
+<navPoint id="chapter1078" playOrder="1055">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1078.html"/>
+</navPoint>
+<navPoint id="chapter1079" playOrder="1056">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1079.html"/>
+</navPoint>
+<navPoint id="chapter1080" playOrder="1057">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1080.html"/>
+</navPoint>
+<navPoint id="chapter1081" playOrder="1058">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1081.html"/>
+</navPoint>
+<navPoint id="chapter1082" playOrder="1059">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1082.html"/>
+</navPoint>
+<navPoint id="chapter1083" playOrder="1060">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1083.html"/>
+</navPoint>
+<navPoint id="chapter1084" playOrder="1061">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1084.html"/>
+</navPoint>
+<navPoint id="chapter1085" playOrder="1062">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1085.html"/>
+</navPoint>
+<navPoint id="chapter1086" playOrder="1063">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1086.html"/>
+</navPoint>
+<navPoint id="chapter1087" playOrder="1064">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1087.html"/>
+</navPoint>
+<navPoint id="chapter1088" playOrder="1065">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1088.html"/>
+</navPoint>
+<navPoint id="chapter1089" playOrder="1066">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1089.html"/>
+</navPoint>
+<navPoint id="chapter1090" playOrder="1067">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1090.html"/>
+</navPoint>
+<navPoint id="chapter1091" playOrder="1068">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1091.html"/>
+</navPoint>
+<navPoint id="chapter1092" playOrder="1069">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter1092.html"/>
+</navPoint>
+<navPoint id="chapter1093" playOrder="1070">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter1093.html"/>
+</navPoint>
+<navPoint id="chapter1094" playOrder="1071">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter1094.html"/>
+</navPoint>
+<navPoint id="chapter1095" playOrder="1072">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter1095.html"/>
+</navPoint>
+<navPoint id="chapter1096" playOrder="1073">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter1096.html"/>
+</navPoint>
+<navPoint id="chapter1097" playOrder="1074">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter1097.html"/>
+</navPoint>
+<navPoint id="chapter1098" playOrder="1075">
+<navLabel><text>第二十三章</text></navLabel>
+<content src="chapter1098.html"/>
+</navPoint>
+<navPoint id="chapter1099" playOrder="1076">
+<navLabel><text>第二十四章</text></navLabel>
+<content src="chapter1099.html"/>
+</navPoint>
+<navPoint id="chapter1100" playOrder="1077">
+<navLabel><text>第二十五章</text></navLabel>
+<content src="chapter1100.html"/>
+</navPoint>
+<navPoint id="chapter1101" playOrder="1078">
+<navLabel><text>第二十六章</text></navLabel>
+<content src="chapter1101.html"/>
+</navPoint>
+<navPoint id="chapter1102" playOrder="1079">
+<navLabel><text>第二十七章</text></navLabel>
+<content src="chapter1102.html"/>
+</navPoint>
+<navPoint id="chapter1103" playOrder="1080">
+<navLabel><text>第二十八章</text></navLabel>
+<content src="chapter1103.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter45" playOrder="1081">
+<navLabel><text>罗马书</text></navLabel>
+<content src="chapter45.html"/>
+<navPoint id="chapter1104" playOrder="1082">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1104.html"/>
+</navPoint>
+<navPoint id="chapter1105" playOrder="1083">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1105.html"/>
+</navPoint>
+<navPoint id="chapter1106" playOrder="1084">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1106.html"/>
+</navPoint>
+<navPoint id="chapter1107" playOrder="1085">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1107.html"/>
+</navPoint>
+<navPoint id="chapter1108" playOrder="1086">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1108.html"/>
+</navPoint>
+<navPoint id="chapter1109" playOrder="1087">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1109.html"/>
+</navPoint>
+<navPoint id="chapter1110" playOrder="1088">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1110.html"/>
+</navPoint>
+<navPoint id="chapter1111" playOrder="1089">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1111.html"/>
+</navPoint>
+<navPoint id="chapter1112" playOrder="1090">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1112.html"/>
+</navPoint>
+<navPoint id="chapter1113" playOrder="1091">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1113.html"/>
+</navPoint>
+<navPoint id="chapter1114" playOrder="1092">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1114.html"/>
+</navPoint>
+<navPoint id="chapter1115" playOrder="1093">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1115.html"/>
+</navPoint>
+<navPoint id="chapter1116" playOrder="1094">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1116.html"/>
+</navPoint>
+<navPoint id="chapter1117" playOrder="1095">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1117.html"/>
+</navPoint>
+<navPoint id="chapter1118" playOrder="1096">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1118.html"/>
+</navPoint>
+<navPoint id="chapter1119" playOrder="1097">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1119.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter46" playOrder="1098">
+<navLabel><text>哥林多前书</text></navLabel>
+<content src="chapter46.html"/>
+<navPoint id="chapter1120" playOrder="1099">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1120.html"/>
+</navPoint>
+<navPoint id="chapter1121" playOrder="1100">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1121.html"/>
+</navPoint>
+<navPoint id="chapter1122" playOrder="1101">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1122.html"/>
+</navPoint>
+<navPoint id="chapter1123" playOrder="1102">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1123.html"/>
+</navPoint>
+<navPoint id="chapter1124" playOrder="1103">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1124.html"/>
+</navPoint>
+<navPoint id="chapter1125" playOrder="1104">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1125.html"/>
+</navPoint>
+<navPoint id="chapter1126" playOrder="1105">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1126.html"/>
+</navPoint>
+<navPoint id="chapter1127" playOrder="1106">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1127.html"/>
+</navPoint>
+<navPoint id="chapter1128" playOrder="1107">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1128.html"/>
+</navPoint>
+<navPoint id="chapter1129" playOrder="1108">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1129.html"/>
+</navPoint>
+<navPoint id="chapter1130" playOrder="1109">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1130.html"/>
+</navPoint>
+<navPoint id="chapter1131" playOrder="1110">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1131.html"/>
+</navPoint>
+<navPoint id="chapter1132" playOrder="1111">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1132.html"/>
+</navPoint>
+<navPoint id="chapter1133" playOrder="1112">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1133.html"/>
+</navPoint>
+<navPoint id="chapter1134" playOrder="1113">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1134.html"/>
+</navPoint>
+<navPoint id="chapter1135" playOrder="1114">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1135.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter47" playOrder="1115">
+<navLabel><text>哥林多后书</text></navLabel>
+<content src="chapter47.html"/>
+<navPoint id="chapter1136" playOrder="1116">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1136.html"/>
+</navPoint>
+<navPoint id="chapter1137" playOrder="1117">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1137.html"/>
+</navPoint>
+<navPoint id="chapter1138" playOrder="1118">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1138.html"/>
+</navPoint>
+<navPoint id="chapter1139" playOrder="1119">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1139.html"/>
+</navPoint>
+<navPoint id="chapter1140" playOrder="1120">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1140.html"/>
+</navPoint>
+<navPoint id="chapter1141" playOrder="1121">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1141.html"/>
+</navPoint>
+<navPoint id="chapter1142" playOrder="1122">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1142.html"/>
+</navPoint>
+<navPoint id="chapter1143" playOrder="1123">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1143.html"/>
+</navPoint>
+<navPoint id="chapter1144" playOrder="1124">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1144.html"/>
+</navPoint>
+<navPoint id="chapter1145" playOrder="1125">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1145.html"/>
+</navPoint>
+<navPoint id="chapter1146" playOrder="1126">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1146.html"/>
+</navPoint>
+<navPoint id="chapter1147" playOrder="1127">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1147.html"/>
+</navPoint>
+<navPoint id="chapter1148" playOrder="1128">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1148.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter48" playOrder="1129">
+<navLabel><text>加拉太书</text></navLabel>
+<content src="chapter48.html"/>
+<navPoint id="chapter1149" playOrder="1130">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1149.html"/>
+</navPoint>
+<navPoint id="chapter1150" playOrder="1131">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1150.html"/>
+</navPoint>
+<navPoint id="chapter1151" playOrder="1132">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1151.html"/>
+</navPoint>
+<navPoint id="chapter1152" playOrder="1133">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1152.html"/>
+</navPoint>
+<navPoint id="chapter1153" playOrder="1134">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1153.html"/>
+</navPoint>
+<navPoint id="chapter1154" playOrder="1135">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1154.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter49" playOrder="1136">
+<navLabel><text>以弗所书</text></navLabel>
+<content src="chapter49.html"/>
+<navPoint id="chapter1155" playOrder="1137">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1155.html"/>
+</navPoint>
+<navPoint id="chapter1156" playOrder="1138">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1156.html"/>
+</navPoint>
+<navPoint id="chapter1157" playOrder="1139">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1157.html"/>
+</navPoint>
+<navPoint id="chapter1158" playOrder="1140">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1158.html"/>
+</navPoint>
+<navPoint id="chapter1159" playOrder="1141">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1159.html"/>
+</navPoint>
+<navPoint id="chapter1160" playOrder="1142">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1160.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter50" playOrder="1143">
+<navLabel><text>腓立比书</text></navLabel>
+<content src="chapter50.html"/>
+<navPoint id="chapter1161" playOrder="1144">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1161.html"/>
+</navPoint>
+<navPoint id="chapter1162" playOrder="1145">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1162.html"/>
+</navPoint>
+<navPoint id="chapter1163" playOrder="1146">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1163.html"/>
+</navPoint>
+<navPoint id="chapter1164" playOrder="1147">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1164.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter51" playOrder="1148">
+<navLabel><text>歌罗西书</text></navLabel>
+<content src="chapter51.html"/>
+<navPoint id="chapter1165" playOrder="1149">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1165.html"/>
+</navPoint>
+<navPoint id="chapter1166" playOrder="1150">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1166.html"/>
+</navPoint>
+<navPoint id="chapter1167" playOrder="1151">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1167.html"/>
+</navPoint>
+<navPoint id="chapter1168" playOrder="1152">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1168.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter52" playOrder="1153">
+<navLabel><text>帖撒罗尼迦前书</text></navLabel>
+<content src="chapter52.html"/>
+<navPoint id="chapter1169" playOrder="1154">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1169.html"/>
+</navPoint>
+<navPoint id="chapter1170" playOrder="1155">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1170.html"/>
+</navPoint>
+<navPoint id="chapter1171" playOrder="1156">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1171.html"/>
+</navPoint>
+<navPoint id="chapter1172" playOrder="1157">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1172.html"/>
+</navPoint>
+<navPoint id="chapter1173" playOrder="1158">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1173.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter53" playOrder="1159">
+<navLabel><text>帖撒罗尼迦后书</text></navLabel>
+<content src="chapter53.html"/>
+<navPoint id="chapter1174" playOrder="1160">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1174.html"/>
+</navPoint>
+<navPoint id="chapter1175" playOrder="1161">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1175.html"/>
+</navPoint>
+<navPoint id="chapter1176" playOrder="1162">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1176.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter55" playOrder="1163">
+<navLabel><text>提摩太前书</text></navLabel>
+<content src="chapter55.html"/>
+<navPoint id="chapter1181" playOrder="1164">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1181.html"/>
+</navPoint>
+<navPoint id="chapter1182" playOrder="1165">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1182.html"/>
+</navPoint>
+<navPoint id="chapter1183" playOrder="1166">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1183.html"/>
+</navPoint>
+<navPoint id="chapter1184" playOrder="1167">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1184.html"/>
+</navPoint>
+<navPoint id="chapter1187" playOrder="1168">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1187.html"/>
+</navPoint>
+<navPoint id="chapter1186" playOrder="1169">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1186.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter54" playOrder="1170">
+<navLabel><text>提摩太后书</text></navLabel>
+<content src="chapter54.html"/>
+<navPoint id="chapter1177" playOrder="1171">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1177.html"/>
+</navPoint>
+<navPoint id="chapter1178" playOrder="1172">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1178.html"/>
+</navPoint>
+<navPoint id="chapter1179" playOrder="1173">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1179.html"/>
+</navPoint>
+<navPoint id="chapter1180" playOrder="1174">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1180.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter56" playOrder="1175">
+<navLabel><text>提多书</text></navLabel>
+<content src="chapter56.html"/>
+<navPoint id="chapter1188" playOrder="1176">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1188.html"/>
+</navPoint>
+<navPoint id="chapter1189" playOrder="1177">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1189.html"/>
+</navPoint>
+<navPoint id="chapter1190" playOrder="1178">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1190.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter57" playOrder="1179">
+<navLabel><text>腓利门书</text></navLabel>
+<content src="chapter57.html"/>
+<navPoint id="chapter1191" playOrder="1180">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1191.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter58" playOrder="1181">
+<navLabel><text>希伯来书</text></navLabel>
+<content src="chapter58.html"/>
+<navPoint id="chapter1192" playOrder="1182">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1192.html"/>
+</navPoint>
+<navPoint id="chapter1193" playOrder="1183">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1193.html"/>
+</navPoint>
+<navPoint id="chapter1194" playOrder="1184">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1194.html"/>
+</navPoint>
+<navPoint id="chapter1195" playOrder="1185">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1195.html"/>
+</navPoint>
+<navPoint id="chapter1196" playOrder="1186">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1196.html"/>
+</navPoint>
+<navPoint id="chapter1197" playOrder="1187">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1197.html"/>
+</navPoint>
+<navPoint id="chapter1198" playOrder="1188">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1198.html"/>
+</navPoint>
+<navPoint id="chapter1199" playOrder="1189">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1199.html"/>
+</navPoint>
+<navPoint id="chapter1200" playOrder="1190">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1200.html"/>
+</navPoint>
+<navPoint id="chapter1201" playOrder="1191">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1201.html"/>
+</navPoint>
+<navPoint id="chapter1202" playOrder="1192">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1202.html"/>
+</navPoint>
+<navPoint id="chapter1203" playOrder="1193">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1203.html"/>
+</navPoint>
+<navPoint id="chapter1204" playOrder="1194">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1204.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter59" playOrder="1195">
+<navLabel><text>雅各书</text></navLabel>
+<content src="chapter59.html"/>
+<navPoint id="chapter1205" playOrder="1196">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1205.html"/>
+</navPoint>
+<navPoint id="chapter1206" playOrder="1197">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1206.html"/>
+</navPoint>
+<navPoint id="chapter1207" playOrder="1198">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1207.html"/>
+</navPoint>
+<navPoint id="chapter1208" playOrder="1199">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1208.html"/>
+</navPoint>
+<navPoint id="chapter1209" playOrder="1200">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1209.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter61" playOrder="1201">
+<navLabel><text>彼得前书</text></navLabel>
+<content src="chapter61.html"/>
+<navPoint id="chapter1210" playOrder="1202">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1210.html"/>
+</navPoint>
+<navPoint id="chapter1211" playOrder="1203">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1211.html"/>
+</navPoint>
+<navPoint id="chapter1212" playOrder="1204">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1212.html"/>
+</navPoint>
+<navPoint id="chapter1213" playOrder="1205">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1213.html"/>
+</navPoint>
+<navPoint id="chapter1214" playOrder="1206">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1214.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter60" playOrder="1207">
+<navLabel><text>彼得后书</text></navLabel>
+<content src="chapter60.html"/>
+<navPoint id="chapter1215" playOrder="1208">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1215.html"/>
+</navPoint>
+<navPoint id="chapter1216" playOrder="1209">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1216.html"/>
+</navPoint>
+<navPoint id="chapter1217" playOrder="1210">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1217.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter62" playOrder="1211">
+<navLabel><text>约翰一书</text></navLabel>
+<content src="chapter62.html"/>
+<navPoint id="chapter1218" playOrder="1212">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1218.html"/>
+</navPoint>
+<navPoint id="chapter1219" playOrder="1213">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1219.html"/>
+</navPoint>
+<navPoint id="chapter1220" playOrder="1214">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1220.html"/>
+</navPoint>
+<navPoint id="chapter1221" playOrder="1215">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1221.html"/>
+</navPoint>
+<navPoint id="chapter1222" playOrder="1216">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1222.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter63" playOrder="1217">
+<navLabel><text>约翰二书</text></navLabel>
+<content src="chapter63.html"/>
+<navPoint id="chapter1223" playOrder="1218">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1223.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter64" playOrder="1219">
+<navLabel><text>约翰三书</text></navLabel>
+<content src="chapter64.html"/>
+<navPoint id="chapter1224" playOrder="1220">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1224.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter65" playOrder="1221">
+<navLabel><text>犹大书</text></navLabel>
+<content src="chapter65.html"/>
+<navPoint id="chapter1225" playOrder="1222">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1225.html"/>
+</navPoint>
+</navPoint>
+<navPoint id="chapter66" playOrder="1223">
+<navLabel><text>启示录</text></navLabel>
+<content src="chapter66.html"/>
+<navPoint id="chapter1226" playOrder="1224">
+<navLabel><text>第一章</text></navLabel>
+<content src="chapter1226.html"/>
+</navPoint>
+<navPoint id="chapter1227" playOrder="1225">
+<navLabel><text>第二章</text></navLabel>
+<content src="chapter1227.html"/>
+</navPoint>
+<navPoint id="chapter1228" playOrder="1226">
+<navLabel><text>第三章</text></navLabel>
+<content src="chapter1228.html"/>
+</navPoint>
+<navPoint id="chapter1229" playOrder="1227">
+<navLabel><text>第四章</text></navLabel>
+<content src="chapter1229.html"/>
+</navPoint>
+<navPoint id="chapter1230" playOrder="1228">
+<navLabel><text>第五章</text></navLabel>
+<content src="chapter1230.html"/>
+</navPoint>
+<navPoint id="chapter1231" playOrder="1229">
+<navLabel><text>第六章</text></navLabel>
+<content src="chapter1231.html"/>
+</navPoint>
+<navPoint id="chapter1232" playOrder="1230">
+<navLabel><text>第七章</text></navLabel>
+<content src="chapter1232.html"/>
+</navPoint>
+<navPoint id="chapter1233" playOrder="1231">
+<navLabel><text>第八章</text></navLabel>
+<content src="chapter1233.html"/>
+</navPoint>
+<navPoint id="chapter1234" playOrder="1232">
+<navLabel><text>第九章</text></navLabel>
+<content src="chapter1234.html"/>
+</navPoint>
+<navPoint id="chapter1235" playOrder="1233">
+<navLabel><text>第十章</text></navLabel>
+<content src="chapter1235.html"/>
+</navPoint>
+<navPoint id="chapter1236" playOrder="1234">
+<navLabel><text>第十一章</text></navLabel>
+<content src="chapter1236.html"/>
+</navPoint>
+<navPoint id="chapter1237" playOrder="1235">
+<navLabel><text>第十二章</text></navLabel>
+<content src="chapter1237.html"/>
+</navPoint>
+<navPoint id="chapter1238" playOrder="1236">
+<navLabel><text>第十三章</text></navLabel>
+<content src="chapter1238.html"/>
+</navPoint>
+<navPoint id="chapter1239" playOrder="1237">
+<navLabel><text>第十四章</text></navLabel>
+<content src="chapter1239.html"/>
+</navPoint>
+<navPoint id="chapter1240" playOrder="1238">
+<navLabel><text>第十五章</text></navLabel>
+<content src="chapter1240.html"/>
+</navPoint>
+<navPoint id="chapter1241" playOrder="1239">
+<navLabel><text>第十六章</text></navLabel>
+<content src="chapter1241.html"/>
+</navPoint>
+<navPoint id="chapter1242" playOrder="1240">
+<navLabel><text>第十七章</text></navLabel>
+<content src="chapter1242.html"/>
+</navPoint>
+<navPoint id="chapter1243" playOrder="1241">
+<navLabel><text>第十八章</text></navLabel>
+<content src="chapter1243.html"/>
+</navPoint>
+<navPoint id="chapter1244" playOrder="1242">
+<navLabel><text>第十九章</text></navLabel>
+<content src="chapter1244.html"/>
+</navPoint>
+<navPoint id="chapter1245" playOrder="1243">
+<navLabel><text>第二十章</text></navLabel>
+<content src="chapter1245.html"/>
+</navPoint>
+<navPoint id="chapter1246" playOrder="1244">
+<navLabel><text>第二十一章</text></navLabel>
+<content src="chapter1246.html"/>
+</navPoint>
+<navPoint id="chapter1247" playOrder="1245">
+<navLabel><text>第二十二章</text></navLabel>
+<content src="chapter1247.html"/>
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>

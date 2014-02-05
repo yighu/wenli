@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset=utf-8>
+<!--meta name="viewport" content="width=620"-->
+<title>圣经中文文理译本</title>
+<script src="js/jquery-2.1.0.min.js"></script></head>
+  <script src="js/simple-slider.js"></script>
+
+  <link href="css/simple-slider.css" rel="stylesheet" type="text/css" />
+  <link href="css/simple-slider-volume.css" rel="stylesheet" type="text/css" />  
+  
+  <style>
+  body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  [class^=slider] { display: inline-block; margin-bottom: 30px; }
+  .output { color: #888; font-size: 14px; padding-top: 1px; margin-left: 5px; vertical-align: top;}
+  h1 { font-size: 20px; }
+  h2 { clear: both; margin: 0; margin-bottom: 5px; font-size: 16px; }
+  p { font-size: 15px; margin-bottom: 30px; }
+  h2:first-of-type { margin-top: 0; }
+  </style>
+</head>
+
+<body>
+<nav>
+<img id="prev" style="float: left;" src="images/Previous-icon.png" />
+<div id="sldbr" style="float: left;">
+<input id="slideb" type="range" min="0" max="1179" onchange="retrivechapter(this.value);">
+</div>
+<img id="next" style="float: left;" src="images/Button-Next-icon.png"  />
+<img id="plustext" style="float: left;" src="images/Button-Upload-icon.png" onclick="resizeText(1)" />
+<img id="minustext" style="float: left;" src="images/Download-icon.png" onclick="resizeText(-1)" />
+<img id="about" style="float: left;" src="images/about.png" /> <img id="extra" style="float: left;" src="images/extra.png" />
+</nav>
+<br/>
+<article>
+<br/>
+<div id="book" style="align:left;"></div>
+<br/>
+<div id="holder" style="align:left;">
+<img  src="images/cover.jpg"/>
+</div>
+</article>
+<footer>
+<img id="prevf" style="float: left;" src="images/Previous-icon.png"/>
+<div id="sldbrf" style="float: left;">
+<input id="slideb" type="range" min="0" max="1179" onchange="retrivechapter(this.value);">
+</div>
+<img id="nextf" style="float: left;" src="images/Button-Next-icon.png"/>
+<img id="plustextf" style="float: left;" src="images/Button-Upload-icon.png" onclick="resizeText(1)" />
+<img id="minustextf" style="float: left;" src="images/Download-icon.png" onclick="resizeText(-1)" />
+<img id="aboutf" style="float: left;" src="images/about.png"/> <img id="extraf" style="float: left;" src="images/extra.png"/>
+</footer>
+<script src="js/bible.js"></script></head>
+</body>
+</html>
